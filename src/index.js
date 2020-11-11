@@ -18,7 +18,7 @@ import borderBox10 from './components/borderBox10/index'
 import borderBox11 from './components/borderBox11/index'
 import borderBox12 from './components/borderBox12/index'
 import borderBox13 from './components/borderBox13/index'
-
+import daoBorderBox1 from './components/daoBorderBox1/index'
 // decoration
 import decoration1 from './components/decoration1/index'
 import decoration2 from './components/decoration2/index'
@@ -96,4 +96,5 @@ export default function (Vue) {
   Vue.use(digitalFlop)
   Vue.use(scrollBoard)
   Vue.use(scrollRankingBoard)
+  Vue.use(daoBorderBox1)
 }
