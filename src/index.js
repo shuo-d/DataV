@@ -18,6 +18,8 @@ import borderBox10 from './components/borderBox10/index'
 import borderBox11 from './components/borderBox11/index'
 import borderBox12 from './components/borderBox12/index'
 import borderBox13 from './components/borderBox13/index'
+import daoBorderBox2 from './components/daoBorderBox2/index'
+
 
 // decoration
 import decoration1 from './components/decoration1/index'
@@ -68,6 +70,7 @@ export default function (Vue) {
   Vue.use(borderBox11)
   Vue.use(borderBox12)
   Vue.use(borderBox13)
+  Vue.use(daoBorderBox2)
 
   // decoration
   Vue.use(decoration1)
