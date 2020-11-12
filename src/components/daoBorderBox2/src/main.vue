@@ -37,43 +37,43 @@
           <stop stop-color="#00DCFF" offset="100%"></stop>
         </linearGradient>
       </defs>
-      <g
-        stroke="none"
-        stroke-width="1"
-        fill="none"
-        fill-rule="evenodd"
-      >
-        <g
-          transform="translate(1.000000, 1.000000)"
-          stroke-width="2"
-        >
+      <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(1.000000, 1.000000)" stroke-width="2">
           <rect
             stroke="#0A4C75"
             fill="url(#radialGradient-1)"
-            x="2"
+            x="1"
             y="1"
             :width="`${width - 4}`"
-            :height="`${height- 4}`"
+            :height="`${height - 4}`"
             rx="2"
           ></rect>
           <path
-            d="M781,0 L917.87028,0 C918.974849,0 919.87028,0.8954305 919.87028,2 L919.87028,128.621915 L919.87028,128.621915"
+            :d="
+              `M${lRTB('rt')[0]} L${lRTB('rt')[1]} C${lRTB('rt')[2]} L${lRTB('rt')[3]} L${lRTB('rt')[3]}`
+            "
             stroke="url(#linearGradient-2)"
           ></path>
           <path
-            :d="`M${leftT[0]} L${leftT[1]} C${leftT[2]} L${leftT[3]} L${leftT[3]}`"
+            :d="
+              `M${lRTB('lt')[0]} L${lRTB('lt')[1]} C${lRTB('lt')[2]} L${lRTB('lt')[3]} L${lRTB('lt')[3]}`
+            "
             stroke="url(#linearGradient-2)"
-            transform="translate(69.435140, 64.310958) scale(-1, 1) translate(-69.435140, -64.310958) "
+            :transform="
+              `translate(${69.43514 * tempBase[0]}, ${64.310958 *
+                tempBase[1]}) scale(-1, 1) translate(${-70.5 *
+                tempBase[0]}, ${-63.8 * tempBase[1]}) `
+            "
           ></path>
           <path
-            d="M781,198 L917.87028,198 C918.974849,198 919.87028,198.895431 919.87028,200 L919.87028,326.621915 L919.87028,326.621915"
+            :d="`M${lRTB('rb')[0]} L${lRTB('rb')[1]} C${lRTB('rb')[2]} L${lRTB('rb')[3]} L${lRTB('rb')[3]}`"
             stroke="url(#linearGradient-2)"
-            transform="translate(850.435140, 262.310958) scale(1, -1) translate(-850.435140, -262.310958) "
+            :transform="`translate(${850.435140 * tempBase[0]}, ${263 * tempBase[1]}) scale(1, -1) translate(${-851 * tempBase[0]}, ${-262 * tempBase[1]}) `"
           ></path>
           <path
-            d="M1,197.5 L137.87028,197.5 C138.974849,197.5 139.87028,198.395431 139.87028,199.5 L139.87028,326.121915"
+            :d="`M${lRTB('lb')[0]} L${lRTB('lb')[1]} C${lRTB('lb')[2]} L${lRTB('lb')[3]}`"
             stroke="url(#linearGradient-2)"
-            transform="translate(70.435140, 261.810958) scale(-1, -1) translate(-70.435140, -261.810958) "
+            :transform="`translate(${70.435140 * tempBase[0]}, ${261.810958 * tempBase[1]}) scale(-1, -1) translate(${-70.435140 * tempBase[0]}, ${-262.5 * tempBase[1]}) `"
           ></path>
         </g>
       </g>
@@ -94,7 +94,7 @@ import { deepMerge } from "@jiaminghi/charts/lib/util/index";
 import { deepClone } from "@jiaminghi/c-render/lib/plugin/util";
 
 import { fade } from "@jiaminghi/color";
-const viewBase = [922, 329]
+const viewBase = [922, 329];
 
 export default {
   name: "DaoBorderBox2",
@@ -117,44 +117,66 @@ export default {
   },
   computed: {
     tempBase() {
-      return [this.width / viewBase[0], this.height / viewBase[1]]
+      return [this.width / viewBase[0], this.height / viewBase[1]];
     },
-    leftT() {
-      // let leftTData = [
-      //   0, 0,
-      //   136.87028, 0,
-      //   137.974849,0, 138.87028,0.8954305, 138.87028,2 ,
-      //   138.87028,128.621915
-      //   // L:['138.87028','128.621915']
-      // ]
-      // return leftTData.map((item, index) => {
-      //     return index % 2 && item * this.tempBase[1] || item * this.tempBase[0]
-      // }).join(' ')
-      let leftTData = {
-        M: [0, 0],
-        L: [137, 0],
-        C: [138,0, 139,1, 139,2 ],
-        L1: [139,129]
-        // L:['138.87028','128.621915']
-      }
-      return Object.keys(leftTData).map((k, index) => {
-        return leftTData[k].map((item, index) => {
-          return index % 2 && item * this.tempBase[1] || item * this.tempBase[0]
-      }).join(' ')
-      })
-    }
   },
   methods: {
     fade,
+    lRTB(pos) {
+      let posData = {}
+      switch (pos) {
+        case "lt":
+          posData = {
+            M: [0, 0],
+            L: [137, 0],
+            C: [138, 0, 139, 1, 139, 2],
+            L1: [139, 129],
+          }
+          break
+        case "rt":
+          posData = {
+            M: [781, 0.5],
+            L: [917.87028, 0.5],
+            C: [918.974849, 0, 919.87028, 0.8954305, 919.87028, 2],
+            L1: [919.87028, 128.621915],
+          }
+          break
+        case 'lb':
+          posData = {
+            M: [1,197.5],
+            L: [137.87028,197.5],
+            C: [138.974849,197.5, 139.87028,198.395431, 139.87028,199.5],
+            L1: [139.87028,326.121915],
+          }
+          break
+        case 'rb':
+          posData = {
+            M: [781,198],
+            L: [917.87028,198],
+            C: [918.974849,198, 919.87028,198.895431, 919.87028,200],
+            L1: [919.87028,326.621915],
+          }
+          break
+      }
+      return Object.keys(posData).map((k, index) => {
+            return posData[k]
+              .map((item, index) => {
+                return (
+                  (index % 2 && item * this.tempBase[1]) ||
+                  item * this.tempBase[0]
+                );
+              })
+              .join(" ");
+      });
+    },
   },
   mounted() {
     this.$nextTick(() => {
-      console.log(this.leftT, 'left')
-      console.log(this.tempBase, 'left1111')
-      console.log(viewBase, 'left222')
-      console.log(this.width, '333')
-    })
-    
+      console.log(this.lRTB("lt"), "left");
+      console.log(this.tempBase, "left1111");
+      console.log(viewBase, "left222");
+      console.log(this.width, "333");
+    });
   },
 };
 </script>
