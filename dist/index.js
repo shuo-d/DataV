@@ -353,7 +353,7 @@
     /* style */
     const __vue_inject_styles__ = function (inject) {
       if (!inject) return
-      inject("data-v-a13759a2_0", { source: "#dv-full-screen-container {\n  position: fixed;\n  top: 0px;\n  left: 0px;\n  overflow: hidden;\n  transform-origin: left top;\n  z-index: 999;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,eAAe;EACf,QAAQ;EACR,SAAS;EACT,gBAAgB;EAChB,0BAA0B;EAC1B,YAAY;AACd","file":"main.vue","sourcesContent":["#dv-full-screen-container {\n  position: fixed;\n  top: 0px;\n  left: 0px;\n  overflow: hidden;\n  transform-origin: left top;\n  z-index: 999;\n}\n"]}, media: undefined });
+      inject("data-v-32bf601f_0", { source: "#dv-full-screen-container {\n  position: fixed;\n  top: 0px;\n  left: 0px;\n  overflow: hidden;\n  transform-origin: left top;\n  z-index: 999;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,eAAe;EACf,QAAQ;EACR,SAAS;EACT,gBAAgB;EAChB,0BAA0B;EAC1B,YAAY;AACd","file":"main.vue","sourcesContent":["#dv-full-screen-container {\n  position: fixed;\n  top: 0px;\n  left: 0px;\n  overflow: hidden;\n  transform-origin: left top;\n  z-index: 999;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
@@ -542,7 +542,7 @@
     /* style */
     const __vue_inject_styles__$1 = function (inject) {
       if (!inject) return
-      inject("data-v-1d059a3c_0", { source: ".dv-loading {\n  width: 100%;\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n.dv-loading .loading-tip {\n  font-size: 15px;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;EACZ,aAAa;EACb,sBAAsB;EACtB,uBAAuB;EACvB,mBAAmB;AACrB;AACA;EACE,eAAe;AACjB","file":"main.vue","sourcesContent":[".dv-loading {\n  width: 100%;\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n.dv-loading .loading-tip {\n  font-size: 15px;\n}\n"]}, media: undefined });
+      inject("data-v-4b7817f2_0", { source: ".dv-loading {\n  width: 100%;\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n.dv-loading .loading-tip {\n  font-size: 15px;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;EACZ,aAAa;EACb,sBAAsB;EACtB,uBAAuB;EACvB,mBAAmB;AACrB;AACA;EACE,eAAe;AACjB","file":"main.vue","sourcesContent":[".dv-loading {\n  width: 100%;\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n.dv-loading .loading-tip {\n  font-size: 15px;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
@@ -1589,7 +1589,7 @@
     /* style */
     const __vue_inject_styles__$2 = function (inject) {
       if (!inject) return
-      inject("data-v-68b29d0c_0", { source: ".dv-border-box-1 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-1 .border {\n  position: absolute;\n  display: block;\n}\n.dv-border-box-1 .right-top {\n  right: 0px;\n  transform: rotateY(180deg);\n}\n.dv-border-box-1 .left-bottom {\n  bottom: 0px;\n  transform: rotateX(180deg);\n}\n.dv-border-box-1 .right-bottom {\n  right: 0px;\n  bottom: 0px;\n  transform: rotateX(180deg) rotateY(180deg);\n}\n.dv-border-box-1 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,cAAc;AAChB;AACA;EACE,UAAU;EACV,0BAA0B;AAC5B;AACA;EACE,WAAW;EACX,0BAA0B;AAC5B;AACA;EACE,UAAU;EACV,WAAW;EACX,0CAA0C;AAC5C;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-1 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-1 .border {\n  position: absolute;\n  display: block;\n}\n.dv-border-box-1 .right-top {\n  right: 0px;\n  transform: rotateY(180deg);\n}\n.dv-border-box-1 .left-bottom {\n  bottom: 0px;\n  transform: rotateX(180deg);\n}\n.dv-border-box-1 .right-bottom {\n  right: 0px;\n  bottom: 0px;\n  transform: rotateX(180deg) rotateY(180deg);\n}\n.dv-border-box-1 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
+      inject("data-v-8dcd7aec_0", { source: ".dv-border-box-1 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-1 .border {\n  position: absolute;\n  display: block;\n}\n.dv-border-box-1 .right-top {\n  right: 0px;\n  transform: rotateY(180deg);\n}\n.dv-border-box-1 .left-bottom {\n  bottom: 0px;\n  transform: rotateX(180deg);\n}\n.dv-border-box-1 .right-bottom {\n  right: 0px;\n  bottom: 0px;\n  transform: rotateX(180deg) rotateY(180deg);\n}\n.dv-border-box-1 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,cAAc;AAChB;AACA;EACE,UAAU;EACV,0BAA0B;AAC5B;AACA;EACE,WAAW;EACX,0BAA0B;AAC5B;AACA;EACE,UAAU;EACV,WAAW;EACX,0CAA0C;AAC5C;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-1 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-1 .border {\n  position: absolute;\n  display: block;\n}\n.dv-border-box-1 .right-top {\n  right: 0px;\n  transform: rotateY(180deg);\n}\n.dv-border-box-1 .left-bottom {\n  bottom: 0px;\n  transform: rotateX(180deg);\n}\n.dv-border-box-1 .right-bottom {\n  right: 0px;\n  bottom: 0px;\n  transform: rotateX(180deg) rotateY(180deg);\n}\n.dv-border-box-1 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
@@ -1779,7 +1779,7 @@
     /* style */
     const __vue_inject_styles__$3 = function (inject) {
       if (!inject) return
-      inject("data-v-75656d43_0", { source: ".dv-border-box-2 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-2 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-2 .dv-border-svg-container > polyline {\n  fill: none;\n  stroke-width: 1;\n}\n.dv-border-box-2 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,QAAQ;EACR,SAAS;AACX;AACA;EACE,UAAU;EACV,eAAe;AACjB;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-2 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-2 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-2 .dv-border-svg-container > polyline {\n  fill: none;\n  stroke-width: 1;\n}\n.dv-border-box-2 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
+      inject("data-v-5de7db9a_0", { source: ".dv-border-box-2 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-2 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-2 .dv-border-svg-container > polyline {\n  fill: none;\n  stroke-width: 1;\n}\n.dv-border-box-2 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,QAAQ;EACR,SAAS;AACX;AACA;EACE,UAAU;EACV,eAAe;AACjB;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-2 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-2 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-2 .dv-border-svg-container > polyline {\n  fill: none;\n  stroke-width: 1;\n}\n.dv-border-box-2 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
@@ -1974,7 +1974,7 @@
     /* style */
     const __vue_inject_styles__$4 = function (inject) {
       if (!inject) return
-      inject("data-v-67c19937_0", { source: ".dv-border-box-3 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-3 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-3 .dv-border-svg-container > polyline {\n  fill: none;\n}\n.dv-border-box-3 .dv-bb3-line1 {\n  stroke-width: 3;\n}\n.dv-border-box-3 .dv-bb3-line2 {\n  stroke-width: 1;\n}\n.dv-border-box-3 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,QAAQ;EACR,SAAS;AACX;AACA;EACE,UAAU;AACZ;AACA;EACE,eAAe;AACjB;AACA;EACE,eAAe;AACjB;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-3 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-3 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-3 .dv-border-svg-container > polyline {\n  fill: none;\n}\n.dv-border-box-3 .dv-bb3-line1 {\n  stroke-width: 3;\n}\n.dv-border-box-3 .dv-bb3-line2 {\n  stroke-width: 1;\n}\n.dv-border-box-3 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
+      inject("data-v-335fbb72_0", { source: ".dv-border-box-3 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-3 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-3 .dv-border-svg-container > polyline {\n  fill: none;\n}\n.dv-border-box-3 .dv-bb3-line1 {\n  stroke-width: 3;\n}\n.dv-border-box-3 .dv-bb3-line2 {\n  stroke-width: 1;\n}\n.dv-border-box-3 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,QAAQ;EACR,SAAS;AACX;AACA;EACE,UAAU;AACZ;AACA;EACE,eAAe;AACjB;AACA;EACE,eAAe;AACjB;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-3 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-3 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-3 .dv-border-svg-container > polyline {\n  fill: none;\n}\n.dv-border-box-3 .dv-bb3-line1 {\n  stroke-width: 3;\n}\n.dv-border-box-3 .dv-bb3-line2 {\n  stroke-width: 1;\n}\n.dv-border-box-3 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
@@ -2192,7 +2192,7 @@
     /* style */
     const __vue_inject_styles__$5 = function (inject) {
       if (!inject) return
-      inject("data-v-6344966e_0", { source: ".dv-border-box-4 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-4 .dv-reverse {\n  transform: rotate(180deg);\n}\n.dv-border-box-4 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-4 .dv-border-svg-container > polyline {\n  fill: none;\n}\n.dv-border-box-4 .sw1 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .sw3 {\n  stroke-width: 3px;\n  stroke-linecap: round;\n}\n.dv-border-box-4 .dv-bb4-line-1 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .dv-bb4-line-2 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .dv-bb4-line-3 {\n  stroke-width: 3px;\n  stroke-linecap: round;\n}\n.dv-border-box-4 .dv-bb4-line-4 {\n  stroke-width: 3px;\n  stroke-linecap: round;\n}\n.dv-border-box-4 .dv-bb4-line-5 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .dv-bb4-line-6 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .dv-bb4-line-7 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .dv-bb4-line-8 {\n  stroke-width: 3px;\n  stroke-linecap: round;\n}\n.dv-border-box-4 .dv-bb4-line-9 {\n  stroke-width: 3px;\n  stroke-linecap: round;\n  stroke-dasharray: 100 250;\n}\n.dv-border-box-4 .dv-bb4-line-10 {\n  stroke-width: 1;\n  stroke-dasharray: 80 270;\n}\n.dv-border-box-4 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,yBAAyB;AAC3B;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,QAAQ;EACR,SAAS;AACX;AACA;EACE,UAAU;AACZ;AACA;EACE,eAAe;AACjB;AACA;EACE,iBAAiB;EACjB,qBAAqB;AACvB;AACA;EACE,eAAe;AACjB;AACA;EACE,eAAe;AACjB;AACA;EACE,iBAAiB;EACjB,qBAAqB;AACvB;AACA;EACE,iBAAiB;EACjB,qBAAqB;AACvB;AACA;EACE,eAAe;AACjB;AACA;EACE,eAAe;AACjB;AACA;EACE,eAAe;AACjB;AACA;EACE,iBAAiB;EACjB,qBAAqB;AACvB;AACA;EACE,iBAAiB;EACjB,qBAAqB;EACrB,yBAAyB;AAC3B;AACA;EACE,eAAe;EACf,wBAAwB;AAC1B;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-4 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-4 .dv-reverse {\n  transform: rotate(180deg);\n}\n.dv-border-box-4 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-4 .dv-border-svg-container > polyline {\n  fill: none;\n}\n.dv-border-box-4 .sw1 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .sw3 {\n  stroke-width: 3px;\n  stroke-linecap: round;\n}\n.dv-border-box-4 .dv-bb4-line-1 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .dv-bb4-line-2 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .dv-bb4-line-3 {\n  stroke-width: 3px;\n  stroke-linecap: round;\n}\n.dv-border-box-4 .dv-bb4-line-4 {\n  stroke-width: 3px;\n  stroke-linecap: round;\n}\n.dv-border-box-4 .dv-bb4-line-5 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .dv-bb4-line-6 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .dv-bb4-line-7 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .dv-bb4-line-8 {\n  stroke-width: 3px;\n  stroke-linecap: round;\n}\n.dv-border-box-4 .dv-bb4-line-9 {\n  stroke-width: 3px;\n  stroke-linecap: round;\n  stroke-dasharray: 100 250;\n}\n.dv-border-box-4 .dv-bb4-line-10 {\n  stroke-width: 1;\n  stroke-dasharray: 80 270;\n}\n.dv-border-box-4 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
+      inject("data-v-76c45b7e_0", { source: ".dv-border-box-4 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-4 .dv-reverse {\n  transform: rotate(180deg);\n}\n.dv-border-box-4 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-4 .dv-border-svg-container > polyline {\n  fill: none;\n}\n.dv-border-box-4 .sw1 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .sw3 {\n  stroke-width: 3px;\n  stroke-linecap: round;\n}\n.dv-border-box-4 .dv-bb4-line-1 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .dv-bb4-line-2 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .dv-bb4-line-3 {\n  stroke-width: 3px;\n  stroke-linecap: round;\n}\n.dv-border-box-4 .dv-bb4-line-4 {\n  stroke-width: 3px;\n  stroke-linecap: round;\n}\n.dv-border-box-4 .dv-bb4-line-5 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .dv-bb4-line-6 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .dv-bb4-line-7 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .dv-bb4-line-8 {\n  stroke-width: 3px;\n  stroke-linecap: round;\n}\n.dv-border-box-4 .dv-bb4-line-9 {\n  stroke-width: 3px;\n  stroke-linecap: round;\n  stroke-dasharray: 100 250;\n}\n.dv-border-box-4 .dv-bb4-line-10 {\n  stroke-width: 1;\n  stroke-dasharray: 80 270;\n}\n.dv-border-box-4 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,yBAAyB;AAC3B;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,QAAQ;EACR,SAAS;AACX;AACA;EACE,UAAU;AACZ;AACA;EACE,eAAe;AACjB;AACA;EACE,iBAAiB;EACjB,qBAAqB;AACvB;AACA;EACE,eAAe;AACjB;AACA;EACE,eAAe;AACjB;AACA;EACE,iBAAiB;EACjB,qBAAqB;AACvB;AACA;EACE,iBAAiB;EACjB,qBAAqB;AACvB;AACA;EACE,eAAe;AACjB;AACA;EACE,eAAe;AACjB;AACA;EACE,eAAe;AACjB;AACA;EACE,iBAAiB;EACjB,qBAAqB;AACvB;AACA;EACE,iBAAiB;EACjB,qBAAqB;EACrB,yBAAyB;AAC3B;AACA;EACE,eAAe;EACf,wBAAwB;AAC1B;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-4 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-4 .dv-reverse {\n  transform: rotate(180deg);\n}\n.dv-border-box-4 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-4 .dv-border-svg-container > polyline {\n  fill: none;\n}\n.dv-border-box-4 .sw1 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .sw3 {\n  stroke-width: 3px;\n  stroke-linecap: round;\n}\n.dv-border-box-4 .dv-bb4-line-1 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .dv-bb4-line-2 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .dv-bb4-line-3 {\n  stroke-width: 3px;\n  stroke-linecap: round;\n}\n.dv-border-box-4 .dv-bb4-line-4 {\n  stroke-width: 3px;\n  stroke-linecap: round;\n}\n.dv-border-box-4 .dv-bb4-line-5 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .dv-bb4-line-6 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .dv-bb4-line-7 {\n  stroke-width: 1;\n}\n.dv-border-box-4 .dv-bb4-line-8 {\n  stroke-width: 3px;\n  stroke-linecap: round;\n}\n.dv-border-box-4 .dv-bb4-line-9 {\n  stroke-width: 3px;\n  stroke-linecap: round;\n  stroke-dasharray: 100 250;\n}\n.dv-border-box-4 .dv-bb4-line-10 {\n  stroke-width: 1;\n  stroke-dasharray: 80 270;\n}\n.dv-border-box-4 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
@@ -2413,7 +2413,7 @@
     /* style */
     const __vue_inject_styles__$6 = function (inject) {
       if (!inject) return
-      inject("data-v-5058b2c6_0", { source: ".dv-border-box-5 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-5 .dv-reverse {\n  transform: rotate(180deg);\n}\n.dv-border-box-5 .dv-border-svg-container {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-5 .dv-border-svg-container > polyline {\n  fill: none;\n}\n.dv-border-box-5 .dv-bb5-line-1,\n.dv-border-box-5 .dv-bb5-line-2 {\n  stroke-width: 1;\n}\n.dv-border-box-5 .dv-bb5-line-3,\n.dv-border-box-5 .dv-bb5-line-6 {\n  stroke-width: 5;\n}\n.dv-border-box-5 .dv-bb5-line-4,\n.dv-border-box-5 .dv-bb5-line-5 {\n  stroke-width: 2;\n}\n.dv-border-box-5 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,yBAAyB;AAC3B;AACA;EACE,kBAAkB;EAClB,QAAQ;EACR,SAAS;EACT,WAAW;EACX,YAAY;AACd;AACA;EACE,UAAU;AACZ;AACA;;EAEE,eAAe;AACjB;AACA;;EAEE,eAAe;AACjB;AACA;;EAEE,eAAe;AACjB;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-5 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-5 .dv-reverse {\n  transform: rotate(180deg);\n}\n.dv-border-box-5 .dv-border-svg-container {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-5 .dv-border-svg-container > polyline {\n  fill: none;\n}\n.dv-border-box-5 .dv-bb5-line-1,\n.dv-border-box-5 .dv-bb5-line-2 {\n  stroke-width: 1;\n}\n.dv-border-box-5 .dv-bb5-line-3,\n.dv-border-box-5 .dv-bb5-line-6 {\n  stroke-width: 5;\n}\n.dv-border-box-5 .dv-bb5-line-4,\n.dv-border-box-5 .dv-bb5-line-5 {\n  stroke-width: 2;\n}\n.dv-border-box-5 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
+      inject("data-v-1ab343ad_0", { source: ".dv-border-box-5 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-5 .dv-reverse {\n  transform: rotate(180deg);\n}\n.dv-border-box-5 .dv-border-svg-container {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-5 .dv-border-svg-container > polyline {\n  fill: none;\n}\n.dv-border-box-5 .dv-bb5-line-1,\n.dv-border-box-5 .dv-bb5-line-2 {\n  stroke-width: 1;\n}\n.dv-border-box-5 .dv-bb5-line-3,\n.dv-border-box-5 .dv-bb5-line-6 {\n  stroke-width: 5;\n}\n.dv-border-box-5 .dv-bb5-line-4,\n.dv-border-box-5 .dv-bb5-line-5 {\n  stroke-width: 2;\n}\n.dv-border-box-5 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,yBAAyB;AAC3B;AACA;EACE,kBAAkB;EAClB,QAAQ;EACR,SAAS;EACT,WAAW;EACX,YAAY;AACd;AACA;EACE,UAAU;AACZ;AACA;;EAEE,eAAe;AACjB;AACA;;EAEE,eAAe;AACjB;AACA;;EAEE,eAAe;AACjB;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-5 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-5 .dv-reverse {\n  transform: rotate(180deg);\n}\n.dv-border-box-5 .dv-border-svg-container {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-5 .dv-border-svg-container > polyline {\n  fill: none;\n}\n.dv-border-box-5 .dv-bb5-line-1,\n.dv-border-box-5 .dv-bb5-line-2 {\n  stroke-width: 1;\n}\n.dv-border-box-5 .dv-bb5-line-3,\n.dv-border-box-5 .dv-bb5-line-6 {\n  stroke-width: 5;\n}\n.dv-border-box-5 .dv-bb5-line-4,\n.dv-border-box-5 .dv-bb5-line-5 {\n  stroke-width: 2;\n}\n.dv-border-box-5 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
@@ -2677,7 +2677,7 @@
     /* style */
     const __vue_inject_styles__$7 = function (inject) {
       if (!inject) return
-      inject("data-v-5188753f_0", { source: ".dv-border-box-6 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-6 .dv-border-svg-container {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-6 .dv-border-svg-container > polyline {\n  fill: none;\n  stroke-width: 1;\n}\n.dv-border-box-6 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,QAAQ;EACR,SAAS;EACT,WAAW;EACX,YAAY;AACd;AACA;EACE,UAAU;EACV,eAAe;AACjB;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-6 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-6 .dv-border-svg-container {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-6 .dv-border-svg-container > polyline {\n  fill: none;\n  stroke-width: 1;\n}\n.dv-border-box-6 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
+      inject("data-v-2561c62f_0", { source: ".dv-border-box-6 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-6 .dv-border-svg-container {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-6 .dv-border-svg-container > polyline {\n  fill: none;\n  stroke-width: 1;\n}\n.dv-border-box-6 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,QAAQ;EACR,SAAS;EACT,WAAW;EACX,YAAY;AACd;AACA;EACE,UAAU;EACV,eAAe;AACjB;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-6 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-6 .dv-border-svg-container {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-6 .dv-border-svg-container > polyline {\n  fill: none;\n  stroke-width: 1;\n}\n.dv-border-box-6 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
@@ -2910,7 +2910,7 @@
     /* style */
     const __vue_inject_styles__$8 = function (inject) {
       if (!inject) return
-      inject("data-v-46d64e74_0", { source: ".dv-border-box-7 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-7 .dv-border-svg-container {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-7 .dv-border-svg-container > polyline {\n  fill: none;\n  stroke-linecap: round;\n}\n.dv-border-box-7 .dv-bb7-line-width-2 {\n  stroke-width: 2;\n}\n.dv-border-box-7 .dv-bb7-line-width-5 {\n  stroke-width: 5;\n}\n.dv-border-box-7 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,QAAQ;EACR,SAAS;EACT,WAAW;EACX,YAAY;AACd;AACA;EACE,UAAU;EACV,qBAAqB;AACvB;AACA;EACE,eAAe;AACjB;AACA;EACE,eAAe;AACjB;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-7 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-7 .dv-border-svg-container {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-7 .dv-border-svg-container > polyline {\n  fill: none;\n  stroke-linecap: round;\n}\n.dv-border-box-7 .dv-bb7-line-width-2 {\n  stroke-width: 2;\n}\n.dv-border-box-7 .dv-bb7-line-width-5 {\n  stroke-width: 5;\n}\n.dv-border-box-7 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
+      inject("data-v-d6fc50f8_0", { source: ".dv-border-box-7 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-7 .dv-border-svg-container {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-7 .dv-border-svg-container > polyline {\n  fill: none;\n  stroke-linecap: round;\n}\n.dv-border-box-7 .dv-bb7-line-width-2 {\n  stroke-width: 2;\n}\n.dv-border-box-7 .dv-bb7-line-width-5 {\n  stroke-width: 5;\n}\n.dv-border-box-7 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,QAAQ;EACR,SAAS;EACT,WAAW;EACX,YAAY;AACd;AACA;EACE,UAAU;EACV,qBAAqB;AACvB;AACA;EACE,eAAe;AACjB;AACA;EACE,eAAe;AACjB;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-7 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-7 .dv-border-svg-container {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-7 .dv-border-svg-container > polyline {\n  fill: none;\n  stroke-linecap: round;\n}\n.dv-border-box-7 .dv-bb7-line-width-2 {\n  stroke-width: 2;\n}\n.dv-border-box-7 .dv-bb7-line-width-5 {\n  stroke-width: 5;\n}\n.dv-border-box-7 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
@@ -3157,7 +3157,7 @@
     /* style */
     const __vue_inject_styles__$9 = function (inject) {
       if (!inject) return
-      inject("data-v-6ac90392_0", { source: ".dv-border-box-8 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-8 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  left: 0px;\n  top: 0px;\n}\n.dv-border-box-8 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,SAAS;EACT,QAAQ;AACV;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-8 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-8 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  left: 0px;\n  top: 0px;\n}\n.dv-border-box-8 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
+      inject("data-v-44611ca2_0", { source: ".dv-border-box-8 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-8 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  left: 0px;\n  top: 0px;\n}\n.dv-border-box-8 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,SAAS;EACT,QAAQ;AACV;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-8 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-8 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  left: 0px;\n  top: 0px;\n}\n.dv-border-box-8 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
@@ -3600,7 +3600,7 @@
     /* style */
     const __vue_inject_styles__$a = function (inject) {
       if (!inject) return
-      inject("data-v-6cb7ad82_0", { source: ".dv-border-box-9 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-9 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  left: 0px;\n  top: 0px;\n}\n.dv-border-box-9 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,SAAS;EACT,QAAQ;AACV;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-9 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-9 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  left: 0px;\n  top: 0px;\n}\n.dv-border-box-9 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
+      inject("data-v-c4ad6ba2_0", { source: ".dv-border-box-9 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-9 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  left: 0px;\n  top: 0px;\n}\n.dv-border-box-9 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,SAAS;EACT,QAAQ;AACV;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-9 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-9 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  left: 0px;\n  top: 0px;\n}\n.dv-border-box-9 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
@@ -3764,7 +3764,7 @@
     /* style */
     const __vue_inject_styles__$b = function (inject) {
       if (!inject) return
-      inject("data-v-5fc0bf0e_0", { source: ".dv-border-box-10 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  border-radius: 6px;\n}\n.dv-border-box-10 .dv-border-svg-container {\n  position: absolute;\n  display: block;\n}\n.dv-border-box-10 .right-top {\n  right: 0px;\n  transform: rotateY(180deg);\n}\n.dv-border-box-10 .left-bottom {\n  bottom: 0px;\n  transform: rotateX(180deg);\n}\n.dv-border-box-10 .right-bottom {\n  right: 0px;\n  bottom: 0px;\n  transform: rotateX(180deg) rotateY(180deg);\n}\n.dv-border-box-10 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,kBAAkB;AACpB;AACA;EACE,kBAAkB;EAClB,cAAc;AAChB;AACA;EACE,UAAU;EACV,0BAA0B;AAC5B;AACA;EACE,WAAW;EACX,0BAA0B;AAC5B;AACA;EACE,UAAU;EACV,WAAW;EACX,0CAA0C;AAC5C;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-10 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  border-radius: 6px;\n}\n.dv-border-box-10 .dv-border-svg-container {\n  position: absolute;\n  display: block;\n}\n.dv-border-box-10 .right-top {\n  right: 0px;\n  transform: rotateY(180deg);\n}\n.dv-border-box-10 .left-bottom {\n  bottom: 0px;\n  transform: rotateX(180deg);\n}\n.dv-border-box-10 .right-bottom {\n  right: 0px;\n  bottom: 0px;\n  transform: rotateX(180deg) rotateY(180deg);\n}\n.dv-border-box-10 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
+      inject("data-v-b4fd07c4_0", { source: ".dv-border-box-10 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  border-radius: 6px;\n}\n.dv-border-box-10 .dv-border-svg-container {\n  position: absolute;\n  display: block;\n}\n.dv-border-box-10 .right-top {\n  right: 0px;\n  transform: rotateY(180deg);\n}\n.dv-border-box-10 .left-bottom {\n  bottom: 0px;\n  transform: rotateX(180deg);\n}\n.dv-border-box-10 .right-bottom {\n  right: 0px;\n  bottom: 0px;\n  transform: rotateX(180deg) rotateY(180deg);\n}\n.dv-border-box-10 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,kBAAkB;AACpB;AACA;EACE,kBAAkB;EAClB,cAAc;AAChB;AACA;EACE,UAAU;EACV,0BAA0B;AAC5B;AACA;EACE,WAAW;EACX,0BAA0B;AAC5B;AACA;EACE,UAAU;EACV,WAAW;EACX,0CAA0C;AAC5C;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-10 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  border-radius: 6px;\n}\n.dv-border-box-10 .dv-border-svg-container {\n  position: absolute;\n  display: block;\n}\n.dv-border-box-10 .right-top {\n  right: 0px;\n  transform: rotateY(180deg);\n}\n.dv-border-box-10 .left-bottom {\n  bottom: 0px;\n  transform: rotateX(180deg);\n}\n.dv-border-box-10 .right-bottom {\n  right: 0px;\n  bottom: 0px;\n  transform: rotateX(180deg) rotateY(180deg);\n}\n.dv-border-box-10 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
@@ -4670,7 +4670,7 @@
     /* style */
     const __vue_inject_styles__$c = function (inject) {
       if (!inject) return
-      inject("data-v-69e6482f_0", { source: ".dv-border-box-11 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-11 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-11 .dv-border-svg-container > polyline {\n  fill: none;\n  stroke-width: 1;\n}\n.dv-border-box-11 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,QAAQ;EACR,SAAS;AACX;AACA;EACE,UAAU;EACV,eAAe;AACjB;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-11 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-11 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-11 .dv-border-svg-container > polyline {\n  fill: none;\n  stroke-width: 1;\n}\n.dv-border-box-11 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
+      inject("data-v-b1eb0dc2_0", { source: ".dv-border-box-11 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-11 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-11 .dv-border-svg-container > polyline {\n  fill: none;\n  stroke-width: 1;\n}\n.dv-border-box-11 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,QAAQ;EACR,SAAS;AACX;AACA;EACE,UAAU;EACV,eAAe;AACjB;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-11 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-11 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-11 .dv-border-svg-container > polyline {\n  fill: none;\n  stroke-width: 1;\n}\n.dv-border-box-11 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
@@ -4996,7 +4996,7 @@
     /* style */
     const __vue_inject_styles__$d = function (inject) {
       if (!inject) return
-      inject("data-v-2e1ba2ce_0", { source: ".dv-border-box-12 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-12 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-12 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,QAAQ;EACR,SAAS;AACX;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-12 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-12 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-12 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
+      inject("data-v-d21e98ee_0", { source: ".dv-border-box-12 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-12 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-12 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,QAAQ;EACR,SAAS;AACX;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-12 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-12 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-12 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
@@ -5167,7 +5167,7 @@
     /* style */
     const __vue_inject_styles__$e = function (inject) {
       if (!inject) return
-      inject("data-v-440ea17e_0", { source: ".dv-border-box-13 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-13 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-13 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,QAAQ;EACR,SAAS;AACX;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-13 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-13 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-13 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
+      inject("data-v-13e1f26e_0", { source: ".dv-border-box-13 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-13 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-13 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,QAAQ;EACR,SAAS;AACX;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-border-box-13 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-border-box-13 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-border-box-13 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
@@ -6038,7 +6038,538 @@
   }
 
   //
+<<<<<<< HEAD
   var script$i = {
+=======
+  const viewBase = [922, 329];
+  var script$f = {
+    name: "DaoBorderBox2",
+    mixins: [autoResize],
+    props: {
+      color: {
+        type: Array,
+        default: () => []
+      },
+      backgroundColor: {
+        type: String,
+        default: "transparent"
+      }
+    },
+
+    data() {
+      const id = uuid();
+      return {
+        ref: "dao-border-box-2"
+      };
+    },
+
+    computed: {
+      tempBase() {
+        return [this.width / viewBase[0], this.height / viewBase[1]];
+      }
+
+    },
+    methods: {
+      fade: lib_9,
+
+      lRTB(pos) {
+        let posData = {};
+
+        switch (pos) {
+          case "lt":
+            posData = {
+              M: [0, 0],
+              L: [137, 0],
+              C: [138, 0, 139, 1, 139, 2],
+              L1: [139, 129]
+            };
+            break;
+
+          case "rt":
+            posData = {
+              M: [781, 0.5],
+              L: [917.87028, 0.5],
+              C: [918.974849, 0, 919.87028, 0.8954305, 919.87028, 2],
+              L1: [919.87028, 128.621915]
+            };
+            break;
+
+          case 'lb':
+            posData = {
+              M: [1, 197.5],
+              L: [137.87028, 197.5],
+              C: [138.974849, 197.5, 139.87028, 198.395431, 139.87028, 199.5],
+              L1: [139.87028, 326.121915]
+            };
+            break;
+
+          case 'rb':
+            posData = {
+              M: [781, 198],
+              L: [917.87028, 198],
+              C: [918.974849, 198, 919.87028, 198.895431, 919.87028, 200],
+              L1: [919.87028, 326.621915]
+            };
+            break;
+        }
+
+        return Object.keys(posData).map((k, index) => {
+          return posData[k].map((item, index) => {
+            return index % 2 && item * this.tempBase[1] || item * this.tempBase[0];
+          }).join(" ");
+        });
+      }
+
+    },
+
+    mounted() {
+      this.$nextTick(() => {
+        console.log(this.lRTB("lt"), "left");
+        console.log(this.tempBase, "left1111");
+        console.log(viewBase, "left222");
+        console.log(this.width, "333");
+      });
+    }
+
+  };
+
+  /* script */
+  const __vue_script__$f = script$f;
+
+  /* template */
+  var __vue_render__$f = function() {
+    var _vm = this;
+    var _h = _vm.$createElement;
+    var _c = _vm._self._c || _h;
+    return _c("div", { ref: _vm.ref, staticClass: "dao-border-box-2" }, [
+      _c(
+        "svg",
+        {
+          staticClass: "dv-border-svg-container",
+          attrs: {
+            width: _vm.width,
+            height: _vm.height,
+            viewBox: "0 0 " + _vm.width + " " + _vm.height,
+            version: "1.1",
+            xmlns: "http://www.w3.org/2000/svg",
+            "xmlns:xlink": "http://www.w3.org/1999/xlink"
+          }
+        },
+        [
+          _c(
+            "defs",
+            [
+              _c(
+                "radialGradient",
+                {
+                  attrs: {
+                    cx: "50%",
+                    cy: "50%",
+                    fx: "50%",
+                    fy: "50%",
+                    r: "84.4320618%",
+                    gradientTransform:
+                      "translate(0.500000,0.500000),scale(0.355435,1.000000),rotate(90.000000),scale(1.000000,1.446426),translate(-0.500000,-0.500000)",
+                    id: "radialGradient-1"
+                  }
+                },
+                [
+                  _c("stop", {
+                    attrs: { "stop-color": "#122644", offset: "0%" }
+                  }),
+                  _vm._v(" "),
+                  _c("stop", {
+                    attrs: {
+                      "stop-color": "#002136",
+                      "stop-opacity": "0.169252622",
+                      offset: "100%"
+                    }
+                  })
+                ],
+                1
+              ),
+              _vm._v(" "),
+              _c(
+                "linearGradient",
+                {
+                  attrs: {
+                    x1: "56.1693514%",
+                    y1: "54.2635773%",
+                    x2: "100%",
+                    y2: "8.57931931%",
+                    id: "linearGradient-2"
+                  }
+                },
+                [
+                  _c("stop", {
+                    attrs: {
+                      "stop-color": "#0099FF",
+                      "stop-opacity": "0",
+                      offset: "0%"
+                    }
+                  }),
+                  _vm._v(" "),
+                  _c("stop", {
+                    attrs: { "stop-color": "#00DCFF", offset: "100%" }
+                  })
+                ],
+                1
+              )
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c(
+            "g",
+            {
+              attrs: {
+                stroke: "none",
+                "stroke-width": "1",
+                fill: "none",
+                "fill-rule": "evenodd"
+              }
+            },
+            [
+              _c(
+                "g",
+                {
+                  attrs: {
+                    transform: "translate(1.000000, 1.000000)",
+                    "stroke-width": "2"
+                  }
+                },
+                [
+                  _c("rect", {
+                    attrs: {
+                      stroke: "#0A4C75",
+                      fill: "url(#radialGradient-1)",
+                      x: "1",
+                      y: "1",
+                      width: "" + (_vm.width - 4),
+                      height: "" + (_vm.height - 4),
+                      rx: "2"
+                    }
+                  }),
+                  _vm._v(" "),
+                  _c("path", {
+                    attrs: {
+                      d:
+                        "M" +
+                        _vm.lRTB("rt")[0] +
+                        " L" +
+                        _vm.lRTB("rt")[1] +
+                        " C" +
+                        _vm.lRTB("rt")[2] +
+                        " L" +
+                        _vm.lRTB("rt")[3] +
+                        " L" +
+                        _vm.lRTB("rt")[3],
+                      stroke: "url(#linearGradient-2)"
+                    }
+                  }),
+                  _vm._v(" "),
+                  _c("path", {
+                    attrs: {
+                      d:
+                        "M" +
+                        _vm.lRTB("lt")[0] +
+                        " L" +
+                        _vm.lRTB("lt")[1] +
+                        " C" +
+                        _vm.lRTB("lt")[2] +
+                        " L" +
+                        _vm.lRTB("lt")[3] +
+                        " L" +
+                        _vm.lRTB("lt")[3],
+                      stroke: "url(#linearGradient-2)",
+                      transform:
+                        "translate(" +
+                        69.43514 * _vm.tempBase[0] +
+                        ", " +
+                        64.310958 * _vm.tempBase[1] +
+                        ") scale(-1, 1) translate(" +
+                        -70.5 * _vm.tempBase[0] +
+                        ", " +
+                        -63.8 * _vm.tempBase[1] +
+                        ") "
+                    }
+                  }),
+                  _vm._v(" "),
+                  _c("path", {
+                    attrs: {
+                      d:
+                        "M" +
+                        _vm.lRTB("rb")[0] +
+                        " L" +
+                        _vm.lRTB("rb")[1] +
+                        " C" +
+                        _vm.lRTB("rb")[2] +
+                        " L" +
+                        _vm.lRTB("rb")[3] +
+                        " L" +
+                        _vm.lRTB("rb")[3],
+                      stroke: "url(#linearGradient-2)",
+                      transform:
+                        "translate(" +
+                        850.43514 * _vm.tempBase[0] +
+                        ", " +
+                        263 * _vm.tempBase[1] +
+                        ") scale(1, -1) translate(" +
+                        -851 * _vm.tempBase[0] +
+                        ", " +
+                        -262 * _vm.tempBase[1] +
+                        ") "
+                    }
+                  }),
+                  _vm._v(" "),
+                  _c("path", {
+                    attrs: {
+                      d:
+                        "M" +
+                        _vm.lRTB("lb")[0] +
+                        " L" +
+                        _vm.lRTB("lb")[1] +
+                        " C" +
+                        _vm.lRTB("lb")[2] +
+                        " L" +
+                        _vm.lRTB("lb")[3],
+                      stroke: "url(#linearGradient-2)",
+                      transform:
+                        "translate(" +
+                        70.43514 * _vm.tempBase[0] +
+                        ", " +
+                        261.810958 * _vm.tempBase[1] +
+                        ") scale(-1, -1) translate(" +
+                        -70.43514 * _vm.tempBase[0] +
+                        ", " +
+                        -262.5 * _vm.tempBase[1] +
+                        ") "
+                    }
+                  })
+                ]
+              )
+            ]
+          )
+        ]
+      ),
+      _vm._v(" "),
+      _c("div", { staticClass: "border-box-content" }, [_vm._t("default")], 2)
+    ])
+  };
+  var __vue_staticRenderFns__$f = [];
+  __vue_render__$f._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$f = function (inject) {
+      if (!inject) return
+      inject("data-v-6848a686_0", { source: ".dao-border-box-2 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dao-border-box-2 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dao-border-box-2 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,QAAQ;EACR,SAAS;AACX;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dao-border-box-2 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dao-border-box-2 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dao-border-box-2 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
+
+    };
+    /* scoped */
+    const __vue_scope_id__$f = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$f = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$f = false;
+    /* style inject SSR */
+    
+    /* style inject shadow dom */
+    
+
+    
+    const __vue_component__$f = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$f, staticRenderFns: __vue_staticRenderFns__$f },
+      __vue_inject_styles__$f,
+      __vue_script__$f,
+      __vue_scope_id__$f,
+      __vue_is_functional_template__$f,
+      __vue_module_identifier__$f,
+      false,
+      createInjector,
+      undefined,
+      undefined
+    );
+
+  function daoBorderBox2 (Vue) {
+    Vue.component(__vue_component__$f.name, __vue_component__$f);
+  }
+
+  //
+  const viewBox = [462, 167];
+  var script$g = {
+    name: "DaoBorderBox4",
+    mixins: [autoResize],
+
+    data() {
+      return {
+        ref: "dao-border-box-4",
+        basic: 14 // 固定边角长度14
+
+      };
+    },
+
+    created() {},
+
+    watch: {},
+    computed: {
+      tempBase() {
+        return [this.width / viewBox[0], this.height / viewBox[1]];
+      }
+
+    },
+
+    mounted() {},
+
+    methods: {}
+  };
+
+  /* script */
+  const __vue_script__$g = script$g;
+
+  /* template */
+  var __vue_render__$g = function() {
+    var _vm = this;
+    var _h = _vm.$createElement;
+    var _c = _vm._self._c || _h;
+    return _c("div", { ref: _vm.ref, staticClass: "dao-border-box-4" }, [
+      _c(
+        "svg",
+        {
+          staticClass: "dv-border-svg-container",
+          attrs: {
+            width: _vm.width,
+            height: _vm.height,
+            viewBox: "0 0 " + _vm.width + " " + _vm.height,
+            version: "1.1",
+            xmlns: "http://www.w3.org/2000/svg",
+            "xmlns:xlink": "http://www.w3.org/1999/xlink"
+          }
+        },
+        [
+          _c(
+            "g",
+            { attrs: { fill: "none", stroke: "#52A8E7", "stroke-width": "2" } },
+            [
+              _c("path", {
+                attrs: {
+                  d:
+                    "M " +
+                    2 * _vm.tempBase[0] +
+                    "," +
+                    (2 * _vm.tempBase[1] + _vm.basic) +
+                    " L " +
+                    2 * _vm.tempBase[0] +
+                    "," +
+                    2 * _vm.tempBase[1] +
+                    " L " +
+                    (2 * _vm.tempBase[0] + _vm.basic) +
+                    "," +
+                    2 * _vm.tempBase[1]
+                }
+              }),
+              _vm._v(" "),
+              _c("path", {
+                attrs: {
+                  d:
+                    "M " +
+                    2 * _vm.tempBase[0] +
+                    "," +
+                    (165 * _vm.tempBase[1] - _vm.basic) +
+                    " L " +
+                    2 * _vm.tempBase[0] +
+                    "," +
+                    165 * _vm.tempBase[1] +
+                    " L " +
+                    (2 * _vm.tempBase[0] + _vm.basic) +
+                    "," +
+                    165 * _vm.tempBase[1]
+                }
+              }),
+              _vm._v(" "),
+              _c("path", {
+                attrs: {
+                  d:
+                    "M " +
+                    (460 * _vm.tempBase[0] - _vm.basic) +
+                    "," +
+                    165 * _vm.tempBase[1] +
+                    " L " +
+                    460 * _vm.tempBase[0] +
+                    "," +
+                    165 * _vm.tempBase[1] +
+                    " L" +
+                    460 * _vm.tempBase[0] +
+                    "," +
+                    (165 * _vm.tempBase[1] - _vm.basic)
+                }
+              }),
+              _vm._v(" "),
+              _c("path", {
+                attrs: {
+                  d:
+                    "M " +
+                    (460 * _vm.tempBase[0] - _vm.basic) +
+                    "," +
+                    2 * _vm.tempBase[1] +
+                    " L" +
+                    460 * _vm.tempBase[0] +
+                    "," +
+                    2 * _vm.tempBase[1] +
+                    " L" +
+                    460 * _vm.tempBase[0] +
+                    "," +
+                    (2 * _vm.tempBase[1] + _vm.basic)
+                }
+              })
+            ]
+          )
+        ]
+      ),
+      _vm._v(" "),
+      _c("div", { staticClass: "border-box-content" }, [_vm._t("default")], 2)
+    ])
+  };
+  var __vue_staticRenderFns__$g = [];
+  __vue_render__$g._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$g = function (inject) {
+      if (!inject) return
+      inject("data-v-1f3e17c4_0", { source: ".dao-border-box-4[data-v-1f3e17c4] {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dao-border-box-4 .dv-border-svg-container[data-v-1f3e17c4] {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dao-border-box-4 .border-box-content[data-v-1f3e17c4] {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,QAAQ;EACR,SAAS;AACX;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dao-border-box-4 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dao-border-box-4 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dao-border-box-4 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
+
+    };
+    /* scoped */
+    const __vue_scope_id__$g = "data-v-1f3e17c4";
+    /* module identifier */
+    const __vue_module_identifier__$g = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$g = false;
+    /* style inject SSR */
+    
+    /* style inject shadow dom */
+    
+
+    
+    const __vue_component__$g = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$g, staticRenderFns: __vue_staticRenderFns__$g },
+      __vue_inject_styles__$g,
+      __vue_script__$g,
+      __vue_scope_id__$g,
+      __vue_is_functional_template__$g,
+      __vue_module_identifier__$g,
+      false,
+      createInjector,
+      undefined,
+      undefined
+    );
+
+  function daoBorderBox4 (Vue) {
+    Vue.component(__vue_component__$g.name, __vue_component__$g);
+  }
+
+  //
+  var script$h = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvDecoration1',
     mixins: [autoResize],
     props: {
@@ -6153,10 +6684,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$i = script$i;
 
   /* template */
   var __vue_render__$i = function() {
+=======
+  const __vue_script__$h = script$h;
+
+  /* template */
+  var __vue_render__$h = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -6303,27 +6841,44 @@
       )
     ])
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$i = [];
   __vue_render__$i._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$i = function (inject) {
+=======
+  var __vue_staticRenderFns__$h = [];
+  __vue_render__$h._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$h = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-e84d03a6_0", { source: ".dv-decoration-1 {\n  width: 100%;\n  height: 100%;\n}\n.dv-decoration-1 svg {\n  transform-origin: left top;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;AACd;AACA;EACE,0BAA0B;AAC5B","file":"main.vue","sourcesContent":[".dv-decoration-1 {\n  width: 100%;\n  height: 100%;\n}\n.dv-decoration-1 svg {\n  transform-origin: left top;\n}\n"]}, media: undefined });
+      inject("data-v-5559af3d_0", { source: ".dv-decoration-1 {\n  width: 100%;\n  height: 100%;\n}\n.dv-decoration-1 svg {\n  transform-origin: left top;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;AACd;AACA;EACE,0BAA0B;AAC5B","file":"main.vue","sourcesContent":[".dv-decoration-1 {\n  width: 100%;\n  height: 100%;\n}\n.dv-decoration-1 svg {\n  transform-origin: left top;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$i = undefined;
     /* module identifier */
     const __vue_module_identifier__$i = undefined;
     /* functional template */
     const __vue_is_functional_template__$i = false;
+=======
+    const __vue_scope_id__$h = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$h = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$h = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$i = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$i, staticRenderFns: __vue_staticRenderFns__$i },
       __vue_inject_styles__$i,
@@ -6331,6 +6886,15 @@
       __vue_scope_id__$i,
       __vue_is_functional_template__$i,
       __vue_module_identifier__$i,
+=======
+    const __vue_component__$h = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$h, staticRenderFns: __vue_staticRenderFns__$h },
+      __vue_inject_styles__$h,
+      __vue_script__$h,
+      __vue_scope_id__$h,
+      __vue_is_functional_template__$h,
+      __vue_module_identifier__$h,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -6338,11 +6902,19 @@
     );
 
   function decoration1 (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$i.name, __vue_component__$i);
   }
 
   //
   var script$j = {
+=======
+    Vue.component(__vue_component__$h.name, __vue_component__$h);
+  }
+
+  //
+  var script$i = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvDecoration2',
     mixins: [autoResize],
     props: {
@@ -6443,10 +7015,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$j = script$j;
 
   /* template */
   var __vue_render__$j = function() {
+=======
+  const __vue_script__$i = script$i;
+
+  /* template */
+  var __vue_render__$i = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -6512,27 +7091,44 @@
       )
     ])
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$j = [];
   __vue_render__$j._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$j = function (inject) {
+=======
+  var __vue_staticRenderFns__$i = [];
+  __vue_render__$i._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$i = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-ec0b7412_0", { source: ".dv-decoration-2 {\n  display: flex;\n  width: 100%;\n  height: 100%;\n  justify-content: center;\n  align-items: center;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,aAAa;EACb,WAAW;EACX,YAAY;EACZ,uBAAuB;EACvB,mBAAmB;AACrB","file":"main.vue","sourcesContent":[".dv-decoration-2 {\n  display: flex;\n  width: 100%;\n  height: 100%;\n  justify-content: center;\n  align-items: center;\n}\n"]}, media: undefined });
+      inject("data-v-0ec0ca32_0", { source: ".dv-decoration-2 {\n  display: flex;\n  width: 100%;\n  height: 100%;\n  justify-content: center;\n  align-items: center;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,aAAa;EACb,WAAW;EACX,YAAY;EACZ,uBAAuB;EACvB,mBAAmB;AACrB","file":"main.vue","sourcesContent":[".dv-decoration-2 {\n  display: flex;\n  width: 100%;\n  height: 100%;\n  justify-content: center;\n  align-items: center;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$j = undefined;
     /* module identifier */
     const __vue_module_identifier__$j = undefined;
     /* functional template */
     const __vue_is_functional_template__$j = false;
+=======
+    const __vue_scope_id__$i = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$i = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$i = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$j = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$j, staticRenderFns: __vue_staticRenderFns__$j },
       __vue_inject_styles__$j,
@@ -6540,6 +7136,15 @@
       __vue_scope_id__$j,
       __vue_is_functional_template__$j,
       __vue_module_identifier__$j,
+=======
+    const __vue_component__$i = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$i, staticRenderFns: __vue_staticRenderFns__$i },
+      __vue_inject_styles__$i,
+      __vue_script__$i,
+      __vue_scope_id__$i,
+      __vue_is_functional_template__$i,
+      __vue_module_identifier__$i,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -6547,11 +7152,19 @@
     );
 
   function decoration2 (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$j.name, __vue_component__$j);
   }
 
   //
   var script$k = {
+=======
+    Vue.component(__vue_component__$i.name, __vue_component__$i);
+  }
+
+  //
+  var script$j = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvDecoration3',
     mixins: [autoResize],
     props: {
@@ -6653,10 +7266,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$k = script$k;
 
   /* template */
   var __vue_render__$k = function() {
+=======
+  const __vue_script__$j = script$j;
+
+  /* template */
+  var __vue_render__$j = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -6704,27 +7324,44 @@
       )
     ])
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$k = [];
   __vue_render__$k._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$k = function (inject) {
+=======
+  var __vue_staticRenderFns__$j = [];
+  __vue_render__$j._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$j = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-8306c254_0", { source: ".dv-decoration-3 {\n  width: 100%;\n  height: 100%;\n}\n.dv-decoration-3 svg {\n  transform-origin: left top;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;AACd;AACA;EACE,0BAA0B;AAC5B","file":"main.vue","sourcesContent":[".dv-decoration-3 {\n  width: 100%;\n  height: 100%;\n}\n.dv-decoration-3 svg {\n  transform-origin: left top;\n}\n"]}, media: undefined });
+      inject("data-v-5b74cfc6_0", { source: ".dv-decoration-3 {\n  width: 100%;\n  height: 100%;\n}\n.dv-decoration-3 svg {\n  transform-origin: left top;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;AACd;AACA;EACE,0BAA0B;AAC5B","file":"main.vue","sourcesContent":[".dv-decoration-3 {\n  width: 100%;\n  height: 100%;\n}\n.dv-decoration-3 svg {\n  transform-origin: left top;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$k = undefined;
     /* module identifier */
     const __vue_module_identifier__$k = undefined;
     /* functional template */
     const __vue_is_functional_template__$k = false;
+=======
+    const __vue_scope_id__$j = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$j = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$j = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$k = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$k, staticRenderFns: __vue_staticRenderFns__$k },
       __vue_inject_styles__$k,
@@ -6732,6 +7369,15 @@
       __vue_scope_id__$k,
       __vue_is_functional_template__$k,
       __vue_module_identifier__$k,
+=======
+    const __vue_component__$j = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$j, staticRenderFns: __vue_staticRenderFns__$j },
+      __vue_inject_styles__$j,
+      __vue_script__$j,
+      __vue_scope_id__$j,
+      __vue_is_functional_template__$j,
+      __vue_module_identifier__$j,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -6739,11 +7385,19 @@
     );
 
   function decoration3 (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$k.name, __vue_component__$k);
   }
 
   //
   var script$l = {
+=======
+    Vue.component(__vue_component__$j.name, __vue_component__$j);
+  }
+
+  //
+  var script$k = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvDecoration4',
     mixins: [autoResize],
     props: {
@@ -6799,10 +7453,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$l = script$l;
 
   /* template */
   var __vue_render__$l = function() {
+=======
+  const __vue_script__$k = script$k;
+
+  /* template */
+  var __vue_render__$k = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -6860,27 +7521,44 @@
       )
     ])
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$l = [];
   __vue_render__$l._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$l = function (inject) {
+=======
+  var __vue_staticRenderFns__$k = [];
+  __vue_render__$k._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$k = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-1203c4be_0", { source: ".dv-decoration-4 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-decoration-4 .container {\n  display: flex;\n  overflow: hidden;\n  position: absolute;\n  flex: 1;\n}\n.dv-decoration-4 .normal {\n  animation: ani-height ease-in-out infinite;\n  left: 50%;\n  margin-left: -2px;\n}\n.dv-decoration-4 .reverse {\n  animation: ani-width ease-in-out infinite;\n  top: 50%;\n  margin-top: -2px;\n}\n@keyframes ani-height {\n0% {\n    height: 0%;\n}\n70% {\n    height: 100%;\n}\n100% {\n    height: 100%;\n}\n}\n@keyframes ani-width {\n0% {\n    width: 0%;\n}\n70% {\n    width: 100%;\n}\n100% {\n    width: 100%;\n}\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,aAAa;EACb,gBAAgB;EAChB,kBAAkB;EAClB,OAAO;AACT;AACA;EACE,0CAA0C;EAC1C,SAAS;EACT,iBAAiB;AACnB;AACA;EACE,yCAAyC;EACzC,QAAQ;EACR,gBAAgB;AAClB;AACA;AACE;IACE,UAAU;AACZ;AACA;IACE,YAAY;AACd;AACA;IACE,YAAY;AACd;AACF;AACA;AACE;IACE,SAAS;AACX;AACA;IACE,WAAW;AACb;AACA;IACE,WAAW;AACb;AACF","file":"main.vue","sourcesContent":[".dv-decoration-4 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-decoration-4 .container {\n  display: flex;\n  overflow: hidden;\n  position: absolute;\n  flex: 1;\n}\n.dv-decoration-4 .normal {\n  animation: ani-height ease-in-out infinite;\n  left: 50%;\n  margin-left: -2px;\n}\n.dv-decoration-4 .reverse {\n  animation: ani-width ease-in-out infinite;\n  top: 50%;\n  margin-top: -2px;\n}\n@keyframes ani-height {\n  0% {\n    height: 0%;\n  }\n  70% {\n    height: 100%;\n  }\n  100% {\n    height: 100%;\n  }\n}\n@keyframes ani-width {\n  0% {\n    width: 0%;\n  }\n  70% {\n    width: 100%;\n  }\n  100% {\n    width: 100%;\n  }\n}\n"]}, media: undefined });
+      inject("data-v-2a792a9e_0", { source: ".dv-decoration-4 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-decoration-4 .container {\n  display: flex;\n  overflow: hidden;\n  position: absolute;\n  flex: 1;\n}\n.dv-decoration-4 .normal {\n  animation: ani-height ease-in-out infinite;\n  left: 50%;\n  margin-left: -2px;\n}\n.dv-decoration-4 .reverse {\n  animation: ani-width ease-in-out infinite;\n  top: 50%;\n  margin-top: -2px;\n}\n@keyframes ani-height {\n0% {\n    height: 0%;\n}\n70% {\n    height: 100%;\n}\n100% {\n    height: 100%;\n}\n}\n@keyframes ani-width {\n0% {\n    width: 0%;\n}\n70% {\n    width: 100%;\n}\n100% {\n    width: 100%;\n}\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,aAAa;EACb,gBAAgB;EAChB,kBAAkB;EAClB,OAAO;AACT;AACA;EACE,0CAA0C;EAC1C,SAAS;EACT,iBAAiB;AACnB;AACA;EACE,yCAAyC;EACzC,QAAQ;EACR,gBAAgB;AAClB;AACA;AACE;IACE,UAAU;AACZ;AACA;IACE,YAAY;AACd;AACA;IACE,YAAY;AACd;AACF;AACA;AACE;IACE,SAAS;AACX;AACA;IACE,WAAW;AACb;AACA;IACE,WAAW;AACb;AACF","file":"main.vue","sourcesContent":[".dv-decoration-4 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-decoration-4 .container {\n  display: flex;\n  overflow: hidden;\n  position: absolute;\n  flex: 1;\n}\n.dv-decoration-4 .normal {\n  animation: ani-height ease-in-out infinite;\n  left: 50%;\n  margin-left: -2px;\n}\n.dv-decoration-4 .reverse {\n  animation: ani-width ease-in-out infinite;\n  top: 50%;\n  margin-top: -2px;\n}\n@keyframes ani-height {\n  0% {\n    height: 0%;\n  }\n  70% {\n    height: 100%;\n  }\n  100% {\n    height: 100%;\n  }\n}\n@keyframes ani-width {\n  0% {\n    width: 0%;\n  }\n  70% {\n    width: 100%;\n  }\n  100% {\n    width: 100%;\n  }\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$l = undefined;
     /* module identifier */
     const __vue_module_identifier__$l = undefined;
     /* functional template */
     const __vue_is_functional_template__$l = false;
+=======
+    const __vue_scope_id__$k = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$k = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$k = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$l = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$l, staticRenderFns: __vue_staticRenderFns__$l },
       __vue_inject_styles__$l,
@@ -6888,6 +7566,15 @@
       __vue_scope_id__$l,
       __vue_is_functional_template__$l,
       __vue_module_identifier__$l,
+=======
+    const __vue_component__$k = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$k, staticRenderFns: __vue_staticRenderFns__$k },
+      __vue_inject_styles__$k,
+      __vue_script__$k,
+      __vue_scope_id__$k,
+      __vue_is_functional_template__$k,
+      __vue_module_identifier__$k,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -6895,11 +7582,19 @@
     );
 
   function decoration4 (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$l.name, __vue_component__$l);
   }
 
   //
   var script$m = {
+=======
+    Vue.component(__vue_component__$k.name, __vue_component__$k);
+  }
+
+  //
+  var script$l = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvDecoration5',
     mixins: [autoResize],
     props: {
@@ -6986,10 +7681,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$m = script$m;
 
   /* template */
   var __vue_render__$m = function() {
+=======
+  const __vue_script__$l = script$l;
+
+  /* template */
+  var __vue_render__$l = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -7053,27 +7755,44 @@
       ])
     ])
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$m = [];
   __vue_render__$m._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$m = function (inject) {
+=======
+  var __vue_staticRenderFns__$l = [];
+  __vue_render__$l._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$l = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-390348ce_0", { source: ".dv-decoration-5 {\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-decoration-5 {\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
+      inject("data-v-368f34a9_0", { source: ".dv-decoration-5 {\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-decoration-5 {\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$m = undefined;
     /* module identifier */
     const __vue_module_identifier__$m = undefined;
     /* functional template */
     const __vue_is_functional_template__$m = false;
+=======
+    const __vue_scope_id__$l = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$l = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$l = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$m = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$m, staticRenderFns: __vue_staticRenderFns__$m },
       __vue_inject_styles__$m,
@@ -7081,6 +7800,15 @@
       __vue_scope_id__$m,
       __vue_is_functional_template__$m,
       __vue_module_identifier__$m,
+=======
+    const __vue_component__$l = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$l, staticRenderFns: __vue_staticRenderFns__$l },
+      __vue_inject_styles__$l,
+      __vue_script__$l,
+      __vue_scope_id__$l,
+      __vue_is_functional_template__$l,
+      __vue_module_identifier__$l,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -7088,11 +7816,19 @@
     );
 
   function decoration5 (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$m.name, __vue_component__$m);
   }
 
   //
   var script$n = {
+=======
+    Vue.component(__vue_component__$l.name, __vue_component__$l);
+  }
+
+  //
+  var script$m = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvDecoration6',
     mixins: [autoResize],
     props: {
@@ -7200,10 +7936,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$n = script$n;
 
   /* template */
   var __vue_render__$n = function() {
+=======
+  const __vue_script__$m = script$m;
+
+  /* template */
+  var __vue_render__$m = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -7276,27 +8019,44 @@
       )
     ])
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$n = [];
   __vue_render__$n._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$n = function (inject) {
+=======
+  var __vue_staticRenderFns__$m = [];
+  __vue_render__$m._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$m = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-36cd4a22_0", { source: ".dv-decoration-6 {\n  width: 100%;\n  height: 100%;\n}\n.dv-decoration-6 svg {\n  transform-origin: left top;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;AACd;AACA;EACE,0BAA0B;AAC5B","file":"main.vue","sourcesContent":[".dv-decoration-6 {\n  width: 100%;\n  height: 100%;\n}\n.dv-decoration-6 svg {\n  transform-origin: left top;\n}\n"]}, media: undefined });
+      inject("data-v-a4cf31dc_0", { source: ".dv-decoration-6 {\n  width: 100%;\n  height: 100%;\n}\n.dv-decoration-6 svg {\n  transform-origin: left top;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;AACd;AACA;EACE,0BAA0B;AAC5B","file":"main.vue","sourcesContent":[".dv-decoration-6 {\n  width: 100%;\n  height: 100%;\n}\n.dv-decoration-6 svg {\n  transform-origin: left top;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$n = undefined;
     /* module identifier */
     const __vue_module_identifier__$n = undefined;
     /* functional template */
     const __vue_is_functional_template__$n = false;
+=======
+    const __vue_scope_id__$m = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$m = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$m = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$n = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$n, staticRenderFns: __vue_staticRenderFns__$n },
       __vue_inject_styles__$n,
@@ -7304,6 +8064,15 @@
       __vue_scope_id__$n,
       __vue_is_functional_template__$n,
       __vue_module_identifier__$n,
+=======
+    const __vue_component__$m = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$m, staticRenderFns: __vue_staticRenderFns__$m },
+      __vue_inject_styles__$m,
+      __vue_script__$m,
+      __vue_scope_id__$m,
+      __vue_is_functional_template__$m,
+      __vue_module_identifier__$m,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -7311,11 +8080,19 @@
     );
 
   function decoration6 (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$n.name, __vue_component__$n);
   }
 
   //
   var script$o = {
+=======
+    Vue.component(__vue_component__$m.name, __vue_component__$m);
+  }
+
+  //
+  var script$n = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvDecoration7',
     props: {
       color: {
@@ -7361,10 +8138,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$o = script$o;
 
   /* template */
   var __vue_render__$o = function() {
+=======
+  const __vue_script__$n = script$n;
+
+  /* template */
+  var __vue_render__$n = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -7417,27 +8201,44 @@
       2
     )
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$o = [];
   __vue_render__$o._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$o = function (inject) {
+=======
+  var __vue_staticRenderFns__$n = [];
+  __vue_render__$n._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$n = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-0575833a_0", { source: ".dv-decoration-7 {\n  display: flex;\n  width: 100%;\n  height: 100%;\n  justify-content: center;\n  align-items: center;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,aAAa;EACb,WAAW;EACX,YAAY;EACZ,uBAAuB;EACvB,mBAAmB;AACrB","file":"main.vue","sourcesContent":[".dv-decoration-7 {\n  display: flex;\n  width: 100%;\n  height: 100%;\n  justify-content: center;\n  align-items: center;\n}\n"]}, media: undefined });
+      inject("data-v-665c47ac_0", { source: ".dv-decoration-7 {\n  display: flex;\n  width: 100%;\n  height: 100%;\n  justify-content: center;\n  align-items: center;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,aAAa;EACb,WAAW;EACX,YAAY;EACZ,uBAAuB;EACvB,mBAAmB;AACrB","file":"main.vue","sourcesContent":[".dv-decoration-7 {\n  display: flex;\n  width: 100%;\n  height: 100%;\n  justify-content: center;\n  align-items: center;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$o = undefined;
     /* module identifier */
     const __vue_module_identifier__$o = undefined;
     /* functional template */
     const __vue_is_functional_template__$o = false;
+=======
+    const __vue_scope_id__$n = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$n = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$n = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$o = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$o, staticRenderFns: __vue_staticRenderFns__$o },
       __vue_inject_styles__$o,
@@ -7445,6 +8246,15 @@
       __vue_scope_id__$o,
       __vue_is_functional_template__$o,
       __vue_module_identifier__$o,
+=======
+    const __vue_component__$n = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$n, staticRenderFns: __vue_staticRenderFns__$n },
+      __vue_inject_styles__$n,
+      __vue_script__$n,
+      __vue_scope_id__$n,
+      __vue_is_functional_template__$n,
+      __vue_module_identifier__$n,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -7452,11 +8262,19 @@
     );
 
   function decoration7 (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$o.name, __vue_component__$o);
   }
 
   //
   var script$p = {
+=======
+    Vue.component(__vue_component__$n.name, __vue_component__$n);
+  }
+
+  //
+  var script$o = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvDecoration8',
     mixins: [autoResize],
     props: {
@@ -7517,10 +8335,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$p = script$p;
 
   /* template */
   var __vue_render__$p = function() {
+=======
+  const __vue_script__$o = script$o;
+
+  /* template */
+  var __vue_render__$o = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -7571,27 +8396,44 @@
       ])
     ])
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$p = [];
   __vue_render__$p._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$p = function (inject) {
+=======
+  var __vue_staticRenderFns__$o = [];
+  __vue_render__$o._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$o = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-1f4f1202_0", { source: ".dv-decoration-8 {\n  display: flex;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,aAAa;EACb,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-decoration-8 {\n  display: flex;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
+      inject("data-v-5810d9dc_0", { source: ".dv-decoration-8 {\n  display: flex;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,aAAa;EACb,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-decoration-8 {\n  display: flex;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$p = undefined;
     /* module identifier */
     const __vue_module_identifier__$p = undefined;
     /* functional template */
     const __vue_is_functional_template__$p = false;
+=======
+    const __vue_scope_id__$o = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$o = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$o = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$p = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$p, staticRenderFns: __vue_staticRenderFns__$p },
       __vue_inject_styles__$p,
@@ -7599,6 +8441,15 @@
       __vue_scope_id__$p,
       __vue_is_functional_template__$p,
       __vue_module_identifier__$p,
+=======
+    const __vue_component__$o = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$o, staticRenderFns: __vue_staticRenderFns__$o },
+      __vue_inject_styles__$o,
+      __vue_script__$o,
+      __vue_scope_id__$o,
+      __vue_is_functional_template__$o,
+      __vue_module_identifier__$o,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -7606,11 +8457,19 @@
     );
 
   function decoration8 (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$p.name, __vue_component__$p);
   }
 
   //
   var script$q = {
+=======
+    Vue.component(__vue_component__$o.name, __vue_component__$o);
+  }
+
+  //
+  var script$p = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvDecoration9',
     mixins: [autoResize],
     props: {
@@ -7691,10 +8550,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$q = script$q;
 
   /* template */
   var __vue_render__$q = function() {
+=======
+  const __vue_script__$p = script$p;
+
+  /* template */
+  var __vue_render__$p = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -7832,27 +8698,44 @@
       2
     )
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$q = [];
   __vue_render__$q._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$q = function (inject) {
+=======
+  var __vue_staticRenderFns__$p = [];
+  __vue_render__$p._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$p = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-863fb7ee_0", { source: ".dv-decoration-9 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n.dv-decoration-9 svg {\n  position: absolute;\n  left: 0px;\n  top: 0px;\n  transform-origin: left top;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,aAAa;EACb,mBAAmB;EACnB,uBAAuB;AACzB;AACA;EACE,kBAAkB;EAClB,SAAS;EACT,QAAQ;EACR,0BAA0B;AAC5B","file":"main.vue","sourcesContent":[".dv-decoration-9 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n.dv-decoration-9 svg {\n  position: absolute;\n  left: 0px;\n  top: 0px;\n  transform-origin: left top;\n}\n"]}, media: undefined });
+      inject("data-v-b357a5ce_0", { source: ".dv-decoration-9 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n.dv-decoration-9 svg {\n  position: absolute;\n  left: 0px;\n  top: 0px;\n  transform-origin: left top;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,aAAa;EACb,mBAAmB;EACnB,uBAAuB;AACzB;AACA;EACE,kBAAkB;EAClB,SAAS;EACT,QAAQ;EACR,0BAA0B;AAC5B","file":"main.vue","sourcesContent":[".dv-decoration-9 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n.dv-decoration-9 svg {\n  position: absolute;\n  left: 0px;\n  top: 0px;\n  transform-origin: left top;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$q = undefined;
     /* module identifier */
     const __vue_module_identifier__$q = undefined;
     /* functional template */
     const __vue_is_functional_template__$q = false;
+=======
+    const __vue_scope_id__$p = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$p = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$p = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$q = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$q, staticRenderFns: __vue_staticRenderFns__$q },
       __vue_inject_styles__$q,
@@ -7860,6 +8743,15 @@
       __vue_scope_id__$q,
       __vue_is_functional_template__$q,
       __vue_module_identifier__$q,
+=======
+    const __vue_component__$p = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$p, staticRenderFns: __vue_staticRenderFns__$p },
+      __vue_inject_styles__$p,
+      __vue_script__$p,
+      __vue_scope_id__$p,
+      __vue_is_functional_template__$p,
+      __vue_module_identifier__$p,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -7867,11 +8759,19 @@
     );
 
   function decoration9 (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$q.name, __vue_component__$q);
   }
 
   //
   var script$r = {
+=======
+    Vue.component(__vue_component__$p.name, __vue_component__$p);
+  }
+
+  //
+  var script$q = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvDecoration10',
     mixins: [autoResize],
     props: {
@@ -7927,10 +8827,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$r = script$r;
 
   /* template */
   var __vue_render__$r = function() {
+=======
+  const __vue_script__$q = script$q;
+
+  /* template */
+  var __vue_render__$q = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -8198,27 +9105,44 @@
       ])
     ])
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$r = [];
   __vue_render__$r._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$r = function (inject) {
+=======
+  var __vue_staticRenderFns__$q = [];
+  __vue_render__$q._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$q = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-cb70b2f0_0", { source: ".dv-decoration-10 {\n  width: 100%;\n  height: 100%;\n  display: flex;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;EACZ,aAAa;AACf","file":"main.vue","sourcesContent":[".dv-decoration-10 {\n  width: 100%;\n  height: 100%;\n  display: flex;\n}\n"]}, media: undefined });
+      inject("data-v-fc4fe910_0", { source: ".dv-decoration-10 {\n  width: 100%;\n  height: 100%;\n  display: flex;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;EACZ,aAAa;AACf","file":"main.vue","sourcesContent":[".dv-decoration-10 {\n  width: 100%;\n  height: 100%;\n  display: flex;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$r = undefined;
     /* module identifier */
     const __vue_module_identifier__$r = undefined;
     /* functional template */
     const __vue_is_functional_template__$r = false;
+=======
+    const __vue_scope_id__$q = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$q = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$q = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$r = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$r, staticRenderFns: __vue_staticRenderFns__$r },
       __vue_inject_styles__$r,
@@ -8226,6 +9150,15 @@
       __vue_scope_id__$r,
       __vue_is_functional_template__$r,
       __vue_module_identifier__$r,
+=======
+    const __vue_component__$q = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$q, staticRenderFns: __vue_staticRenderFns__$q },
+      __vue_inject_styles__$q,
+      __vue_script__$q,
+      __vue_scope_id__$q,
+      __vue_is_functional_template__$q,
+      __vue_module_identifier__$q,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -8233,11 +9166,19 @@
     );
 
   function decoration10 (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$r.name, __vue_component__$r);
   }
 
   //
   var script$s = {
+=======
+    Vue.component(__vue_component__$q.name, __vue_component__$q);
+  }
+
+  //
+  var script$r = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvDecoration11',
     mixins: [autoResize],
     props: {
@@ -8286,10 +9227,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$s = script$s;
 
   /* template */
   var __vue_render__$s = function() {
+=======
+  const __vue_script__$r = script$r;
+
+  /* template */
+  var __vue_render__$r = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -8413,27 +9361,44 @@
       _c("div", { staticClass: "decoration-content" }, [_vm._t("default")], 2)
     ])
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$s = [];
   __vue_render__$s._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$s = function (inject) {
+=======
+  var __vue_staticRenderFns__$r = [];
+  __vue_render__$r._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$r = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-5b65dbd9_0", { source: ".dv-decoration-11 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  display: flex;\n}\n.dv-decoration-11 .decoration-content {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,aAAa;AACf;AACA;EACE,kBAAkB;EAClB,QAAQ;EACR,SAAS;EACT,WAAW;EACX,YAAY;EACZ,aAAa;EACb,mBAAmB;EACnB,uBAAuB;AACzB","file":"main.vue","sourcesContent":[".dv-decoration-11 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  display: flex;\n}\n.dv-decoration-11 .decoration-content {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n"]}, media: undefined });
+      inject("data-v-327c04c9_0", { source: ".dv-decoration-11 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  display: flex;\n}\n.dv-decoration-11 .decoration-content {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,aAAa;AACf;AACA;EACE,kBAAkB;EAClB,QAAQ;EACR,SAAS;EACT,WAAW;EACX,YAAY;EACZ,aAAa;EACb,mBAAmB;EACnB,uBAAuB;AACzB","file":"main.vue","sourcesContent":[".dv-decoration-11 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  display: flex;\n}\n.dv-decoration-11 .decoration-content {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$s = undefined;
     /* module identifier */
     const __vue_module_identifier__$s = undefined;
     /* functional template */
     const __vue_is_functional_template__$s = false;
+=======
+    const __vue_scope_id__$r = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$r = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$r = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$s = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$s, staticRenderFns: __vue_staticRenderFns__$s },
       __vue_inject_styles__$s,
@@ -8441,6 +9406,15 @@
       __vue_scope_id__$s,
       __vue_is_functional_template__$s,
       __vue_module_identifier__$s,
+=======
+    const __vue_component__$r = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$r, staticRenderFns: __vue_staticRenderFns__$r },
+      __vue_inject_styles__$r,
+      __vue_script__$r,
+      __vue_scope_id__$r,
+      __vue_is_functional_template__$r,
+      __vue_module_identifier__$r,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -8448,11 +9422,19 @@
     );
 
   function decoration11 (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$s.name, __vue_component__$s);
   }
 
   //
   var script$t = {
+=======
+    Vue.component(__vue_component__$r.name, __vue_component__$r);
+  }
+
+  //
+  var script$s = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvDecoration12',
     mixins: [autoResize],
     props: {
@@ -8636,10 +9618,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$t = script$t;
 
   /* template */
   var __vue_render__$t = function() {
+=======
+  const __vue_script__$s = script$s;
+
+  /* template */
+  var __vue_render__$s = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -8801,27 +9790,44 @@
       _c("div", { staticClass: "decoration-content" }, [_vm._t("default")], 2)
     ])
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$t = [];
   __vue_render__$t._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$t = function (inject) {
+=======
+  var __vue_staticRenderFns__$s = [];
+  __vue_render__$s._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$s = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-16b9ac29_0", { source: ".dv-decoration-12 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  display: flex;\n}\n.dv-decoration-12 .decoration-content {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,aAAa;AACf;AACA;EACE,kBAAkB;EAClB,QAAQ;EACR,SAAS;EACT,WAAW;EACX,YAAY;EACZ,aAAa;EACb,mBAAmB;EACnB,uBAAuB;AACzB","file":"main.vue","sourcesContent":[".dv-decoration-12 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  display: flex;\n}\n.dv-decoration-12 .decoration-content {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n"]}, media: undefined });
+      inject("data-v-42d25939_0", { source: ".dv-decoration-12 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  display: flex;\n}\n.dv-decoration-12 .decoration-content {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,aAAa;AACf;AACA;EACE,kBAAkB;EAClB,QAAQ;EACR,SAAS;EACT,WAAW;EACX,YAAY;EACZ,aAAa;EACb,mBAAmB;EACnB,uBAAuB;AACzB","file":"main.vue","sourcesContent":[".dv-decoration-12 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  display: flex;\n}\n.dv-decoration-12 .decoration-content {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$t = undefined;
     /* module identifier */
     const __vue_module_identifier__$t = undefined;
     /* functional template */
     const __vue_is_functional_template__$t = false;
+=======
+    const __vue_scope_id__$s = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$s = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$s = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$t = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$t, staticRenderFns: __vue_staticRenderFns__$t },
       __vue_inject_styles__$t,
@@ -8829,6 +9835,15 @@
       __vue_scope_id__$t,
       __vue_is_functional_template__$t,
       __vue_module_identifier__$t,
+=======
+    const __vue_component__$s = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$s, staticRenderFns: __vue_staticRenderFns__$s },
+      __vue_inject_styles__$s,
+      __vue_script__$s,
+      __vue_scope_id__$s,
+      __vue_is_functional_template__$s,
+      __vue_module_identifier__$s,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -8836,6 +9851,7 @@
     );
 
   function decoration12 (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$t.name, __vue_component__$t);
   }
 
@@ -9063,6 +10079,9 @@
 
   function decoration13 (Vue) {
     Vue.component(__vue_component__$u.name, __vue_component__$u);
+=======
+    Vue.component(__vue_component__$s.name, __vue_component__$s);
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
   }
 
   function _classCallCheck(instance, Constructor) {
@@ -20825,7 +21844,11 @@
   var Charts = unwrapExports(lib$4);
 
   //
+<<<<<<< HEAD
   var script$v = {
+=======
+  var script$t = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvCharts',
     mixins: [autoResize],
     props: {
@@ -20887,10 +21910,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$v = script$v;
 
   /* template */
   var __vue_render__$v = function() {
+=======
+  const __vue_script__$t = script$t;
+
+  /* template */
+  var __vue_render__$t = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -20898,27 +21928,44 @@
       _c("div", { ref: _vm.chartRef, staticClass: "charts-canvas-container" })
     ])
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$v = [];
   __vue_render__$v._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$v = function (inject) {
+=======
+  var __vue_staticRenderFns__$t = [];
+  __vue_render__$t._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$t = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-2dcf9529_0", { source: ".dv-charts-container {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-charts-container .charts-canvas-container {\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-charts-container {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-charts-container .charts-canvas-container {\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
+      inject("data-v-7e9893ce_0", { source: ".dv-charts-container {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-charts-container .charts-canvas-container {\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-charts-container {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dv-charts-container .charts-canvas-container {\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$v = undefined;
     /* module identifier */
     const __vue_module_identifier__$v = undefined;
     /* functional template */
     const __vue_is_functional_template__$v = false;
+=======
+    const __vue_scope_id__$t = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$t = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$t = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$v = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$v, staticRenderFns: __vue_staticRenderFns__$v },
       __vue_inject_styles__$v,
@@ -20926,6 +21973,15 @@
       __vue_scope_id__$v,
       __vue_is_functional_template__$v,
       __vue_module_identifier__$v,
+=======
+    const __vue_component__$t = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$t, staticRenderFns: __vue_staticRenderFns__$t },
+      __vue_inject_styles__$t,
+      __vue_script__$t,
+      __vue_scope_id__$t,
+      __vue_is_functional_template__$t,
+      __vue_module_identifier__$t,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -20933,11 +21989,19 @@
     );
 
   function charts (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$v.name, __vue_component__$v);
   }
 
   //
   var script$w = {
+=======
+    Vue.component(__vue_component__$t.name, __vue_component__$t);
+  }
+
+  //
+  var script$u = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvDigitalFlop',
     props: {
       config: {
@@ -21157,10 +22221,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$w = script$w;
 
   /* template */
   var __vue_render__$w = function() {
+=======
+  const __vue_script__$u = script$u;
+
+  /* template */
+  var __vue_render__$u = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -21168,27 +22239,44 @@
       _c("canvas", { ref: "digital-flop" })
     ])
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$w = [];
   __vue_render__$w._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$w = function (inject) {
+=======
+  var __vue_staticRenderFns__$u = [];
+  __vue_render__$u._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$u = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-17b05a84_0", { source: ".dv-digital-flop canvas {\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-digital-flop canvas {\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
+      inject("data-v-768a8bae_0", { source: ".dv-digital-flop canvas {\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dv-digital-flop canvas {\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$w = undefined;
     /* module identifier */
     const __vue_module_identifier__$w = undefined;
     /* functional template */
     const __vue_is_functional_template__$w = false;
+=======
+    const __vue_scope_id__$u = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$u = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$u = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$w = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$w, staticRenderFns: __vue_staticRenderFns__$w },
       __vue_inject_styles__$w,
@@ -21196,6 +22284,15 @@
       __vue_scope_id__$w,
       __vue_is_functional_template__$w,
       __vue_module_identifier__$w,
+=======
+    const __vue_component__$u = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$u, staticRenderFns: __vue_staticRenderFns__$u },
+      __vue_inject_styles__$u,
+      __vue_script__$u,
+      __vue_scope_id__$u,
+      __vue_is_functional_template__$u,
+      __vue_module_identifier__$u,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -21203,10 +22300,17 @@
     );
 
   //
+<<<<<<< HEAD
   var script$x = {
     name: 'DvActiveRingChart',
     components: {
       dvDigitalFlop: __vue_component__$w
+=======
+  var script$v = {
+    name: 'DvActiveRingChart',
+    components: {
+      dvDigitalFlop: __vue_component__$u
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     },
     props: {
       config: {
@@ -21511,10 +22615,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$x = script$x;
 
   /* template */
   var __vue_render__$x = function() {
+=======
+  const __vue_script__$v = script$v;
+
+  /* template */
+  var __vue_render__$v = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -21538,27 +22649,44 @@
       )
     ])
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$x = [];
   __vue_render__$x._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$x = function (inject) {
+=======
+  var __vue_staticRenderFns__$v = [];
+  __vue_render__$v._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$v = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-3f9cb404_0", { source: ".dv-active-ring-chart {\n  position: relative;\n}\n.dv-active-ring-chart .active-ring-chart-container {\n  width: 100%;\n  height: 100%;\n}\n.dv-active-ring-chart .active-ring-info {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  left: 0px;\n  top: 0px;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n.dv-active-ring-chart .active-ring-info .dv-digital-flop {\n  width: 100px;\n  height: 30px;\n}\n.dv-active-ring-chart .active-ring-info .active-ring-name {\n  width: 100px;\n  height: 30px;\n  color: #fff;\n  text-align: center;\n  vertical-align: middle;\n  text-overflow: ellipsis;\n  overflow: hidden;\n  white-space: nowrap;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;AACpB;AACA;EACE,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,SAAS;EACT,QAAQ;EACR,aAAa;EACb,sBAAsB;EACtB,uBAAuB;EACvB,mBAAmB;AACrB;AACA;EACE,YAAY;EACZ,YAAY;AACd;AACA;EACE,YAAY;EACZ,YAAY;EACZ,WAAW;EACX,kBAAkB;EAClB,sBAAsB;EACtB,uBAAuB;EACvB,gBAAgB;EAChB,mBAAmB;AACrB","file":"main.vue","sourcesContent":[".dv-active-ring-chart {\n  position: relative;\n}\n.dv-active-ring-chart .active-ring-chart-container {\n  width: 100%;\n  height: 100%;\n}\n.dv-active-ring-chart .active-ring-info {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  left: 0px;\n  top: 0px;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n.dv-active-ring-chart .active-ring-info .dv-digital-flop {\n  width: 100px;\n  height: 30px;\n}\n.dv-active-ring-chart .active-ring-info .active-ring-name {\n  width: 100px;\n  height: 30px;\n  color: #fff;\n  text-align: center;\n  vertical-align: middle;\n  text-overflow: ellipsis;\n  overflow: hidden;\n  white-space: nowrap;\n}\n"]}, media: undefined });
+      inject("data-v-b2fb3a24_0", { source: ".dv-active-ring-chart {\n  position: relative;\n}\n.dv-active-ring-chart .active-ring-chart-container {\n  width: 100%;\n  height: 100%;\n}\n.dv-active-ring-chart .active-ring-info {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  left: 0px;\n  top: 0px;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n.dv-active-ring-chart .active-ring-info .dv-digital-flop {\n  width: 100px;\n  height: 30px;\n}\n.dv-active-ring-chart .active-ring-info .active-ring-name {\n  width: 100px;\n  height: 30px;\n  color: #fff;\n  text-align: center;\n  vertical-align: middle;\n  text-overflow: ellipsis;\n  overflow: hidden;\n  white-space: nowrap;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;AACpB;AACA;EACE,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,SAAS;EACT,QAAQ;EACR,aAAa;EACb,sBAAsB;EACtB,uBAAuB;EACvB,mBAAmB;AACrB;AACA;EACE,YAAY;EACZ,YAAY;AACd;AACA;EACE,YAAY;EACZ,YAAY;EACZ,WAAW;EACX,kBAAkB;EAClB,sBAAsB;EACtB,uBAAuB;EACvB,gBAAgB;EAChB,mBAAmB;AACrB","file":"main.vue","sourcesContent":[".dv-active-ring-chart {\n  position: relative;\n}\n.dv-active-ring-chart .active-ring-chart-container {\n  width: 100%;\n  height: 100%;\n}\n.dv-active-ring-chart .active-ring-info {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  left: 0px;\n  top: 0px;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n.dv-active-ring-chart .active-ring-info .dv-digital-flop {\n  width: 100px;\n  height: 30px;\n}\n.dv-active-ring-chart .active-ring-info .active-ring-name {\n  width: 100px;\n  height: 30px;\n  color: #fff;\n  text-align: center;\n  vertical-align: middle;\n  text-overflow: ellipsis;\n  overflow: hidden;\n  white-space: nowrap;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$x = undefined;
     /* module identifier */
     const __vue_module_identifier__$x = undefined;
     /* functional template */
     const __vue_is_functional_template__$x = false;
+=======
+    const __vue_scope_id__$v = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$v = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$v = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$x = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$x, staticRenderFns: __vue_staticRenderFns__$x },
       __vue_inject_styles__$x,
@@ -21566,6 +22694,15 @@
       __vue_scope_id__$x,
       __vue_is_functional_template__$x,
       __vue_module_identifier__$x,
+=======
+    const __vue_component__$v = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$v, staticRenderFns: __vue_staticRenderFns__$v },
+      __vue_inject_styles__$v,
+      __vue_script__$v,
+      __vue_scope_id__$v,
+      __vue_is_functional_template__$v,
+      __vue_module_identifier__$v,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -21573,11 +22710,19 @@
     );
 
   function activeRingChart (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$x.name, __vue_component__$x);
   }
 
   //
   var script$y = {
+=======
+    Vue.component(__vue_component__$v.name, __vue_component__$v);
+  }
+
+  //
+  var script$w = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvCapsuleChart',
     props: {
       config: {
@@ -21683,10 +22828,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$y = script$y;
 
   /* template */
   var __vue_render__$y = function() {
+=======
+  const __vue_script__$w = script$w;
+
+  /* template */
+  var __vue_render__$w = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -21770,27 +22922,44 @@
       2
     )
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$y = [];
   __vue_render__$y._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$y = function (inject) {
+=======
+  var __vue_staticRenderFns__$w = [];
+  __vue_render__$w._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$w = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-376223b7_0", { source: ".dv-capsule-chart {\n  position: relative;\n  display: flex;\n  flex-direction: row;\n  box-sizing: border-box;\n  padding: 10px;\n  color: #fff;\n}\n.dv-capsule-chart .label-column {\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n  box-sizing: border-box;\n  padding-right: 10px;\n  text-align: right;\n  font-size: 12px;\n}\n.dv-capsule-chart .label-column div {\n  height: 20px;\n  line-height: 20px;\n}\n.dv-capsule-chart .capsule-container {\n  flex: 1;\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n}\n.dv-capsule-chart .capsule-item {\n  box-shadow: 0 0 3px #999;\n  height: 10px;\n  margin: 5px 0px;\n  border-radius: 5px;\n}\n.dv-capsule-chart .capsule-item .capsule-item-column {\n  position: relative;\n  height: 8px;\n  margin-top: 1px;\n  border-radius: 5px;\n  transition: all 0.3s;\n  display: flex;\n  justify-content: flex-end;\n  align-items: center;\n}\n.dv-capsule-chart .capsule-item .capsule-item-column .capsule-item-value {\n  font-size: 12px;\n  transform: translateX(100%);\n}\n.dv-capsule-chart .unit-label {\n  height: 20px;\n  font-size: 12px;\n  position: relative;\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\n.dv-capsule-chart .unit-text {\n  text-align: right;\n  display: flex;\n  align-items: flex-end;\n  font-size: 12px;\n  line-height: 20px;\n  margin-left: 10px;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,aAAa;EACb,mBAAmB;EACnB,sBAAsB;EACtB,aAAa;EACb,WAAW;AACb;AACA;EACE,aAAa;EACb,sBAAsB;EACtB,8BAA8B;EAC9B,sBAAsB;EACtB,mBAAmB;EACnB,iBAAiB;EACjB,eAAe;AACjB;AACA;EACE,YAAY;EACZ,iBAAiB;AACnB;AACA;EACE,OAAO;EACP,aAAa;EACb,sBAAsB;EACtB,8BAA8B;AAChC;AACA;EACE,wBAAwB;EACxB,YAAY;EACZ,eAAe;EACf,kBAAkB;AACpB;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,eAAe;EACf,kBAAkB;EAClB,oBAAoB;EACpB,aAAa;EACb,yBAAyB;EACzB,mBAAmB;AACrB;AACA;EACE,eAAe;EACf,2BAA2B;AAC7B;AACA;EACE,YAAY;EACZ,eAAe;EACf,kBAAkB;EAClB,aAAa;EACb,8BAA8B;EAC9B,mBAAmB;AACrB;AACA;EACE,iBAAiB;EACjB,aAAa;EACb,qBAAqB;EACrB,eAAe;EACf,iBAAiB;EACjB,iBAAiB;AACnB","file":"main.vue","sourcesContent":[".dv-capsule-chart {\n  position: relative;\n  display: flex;\n  flex-direction: row;\n  box-sizing: border-box;\n  padding: 10px;\n  color: #fff;\n}\n.dv-capsule-chart .label-column {\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n  box-sizing: border-box;\n  padding-right: 10px;\n  text-align: right;\n  font-size: 12px;\n}\n.dv-capsule-chart .label-column div {\n  height: 20px;\n  line-height: 20px;\n}\n.dv-capsule-chart .capsule-container {\n  flex: 1;\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n}\n.dv-capsule-chart .capsule-item {\n  box-shadow: 0 0 3px #999;\n  height: 10px;\n  margin: 5px 0px;\n  border-radius: 5px;\n}\n.dv-capsule-chart .capsule-item .capsule-item-column {\n  position: relative;\n  height: 8px;\n  margin-top: 1px;\n  border-radius: 5px;\n  transition: all 0.3s;\n  display: flex;\n  justify-content: flex-end;\n  align-items: center;\n}\n.dv-capsule-chart .capsule-item .capsule-item-column .capsule-item-value {\n  font-size: 12px;\n  transform: translateX(100%);\n}\n.dv-capsule-chart .unit-label {\n  height: 20px;\n  font-size: 12px;\n  position: relative;\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\n.dv-capsule-chart .unit-text {\n  text-align: right;\n  display: flex;\n  align-items: flex-end;\n  font-size: 12px;\n  line-height: 20px;\n  margin-left: 10px;\n}\n"]}, media: undefined });
+      inject("data-v-b85aee72_0", { source: ".dv-capsule-chart {\n  position: relative;\n  display: flex;\n  flex-direction: row;\n  box-sizing: border-box;\n  padding: 10px;\n  color: #fff;\n}\n.dv-capsule-chart .label-column {\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n  box-sizing: border-box;\n  padding-right: 10px;\n  text-align: right;\n  font-size: 12px;\n}\n.dv-capsule-chart .label-column div {\n  height: 20px;\n  line-height: 20px;\n}\n.dv-capsule-chart .capsule-container {\n  flex: 1;\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n}\n.dv-capsule-chart .capsule-item {\n  box-shadow: 0 0 3px #999;\n  height: 10px;\n  margin: 5px 0px;\n  border-radius: 5px;\n}\n.dv-capsule-chart .capsule-item .capsule-item-column {\n  position: relative;\n  height: 8px;\n  margin-top: 1px;\n  border-radius: 5px;\n  transition: all 0.3s;\n  display: flex;\n  justify-content: flex-end;\n  align-items: center;\n}\n.dv-capsule-chart .capsule-item .capsule-item-column .capsule-item-value {\n  font-size: 12px;\n  transform: translateX(100%);\n}\n.dv-capsule-chart .unit-label {\n  height: 20px;\n  font-size: 12px;\n  position: relative;\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\n.dv-capsule-chart .unit-text {\n  text-align: right;\n  display: flex;\n  align-items: flex-end;\n  font-size: 12px;\n  line-height: 20px;\n  margin-left: 10px;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,aAAa;EACb,mBAAmB;EACnB,sBAAsB;EACtB,aAAa;EACb,WAAW;AACb;AACA;EACE,aAAa;EACb,sBAAsB;EACtB,8BAA8B;EAC9B,sBAAsB;EACtB,mBAAmB;EACnB,iBAAiB;EACjB,eAAe;AACjB;AACA;EACE,YAAY;EACZ,iBAAiB;AACnB;AACA;EACE,OAAO;EACP,aAAa;EACb,sBAAsB;EACtB,8BAA8B;AAChC;AACA;EACE,wBAAwB;EACxB,YAAY;EACZ,eAAe;EACf,kBAAkB;AACpB;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,eAAe;EACf,kBAAkB;EAClB,oBAAoB;EACpB,aAAa;EACb,yBAAyB;EACzB,mBAAmB;AACrB;AACA;EACE,eAAe;EACf,2BAA2B;AAC7B;AACA;EACE,YAAY;EACZ,eAAe;EACf,kBAAkB;EAClB,aAAa;EACb,8BAA8B;EAC9B,mBAAmB;AACrB;AACA;EACE,iBAAiB;EACjB,aAAa;EACb,qBAAqB;EACrB,eAAe;EACf,iBAAiB;EACjB,iBAAiB;AACnB","file":"main.vue","sourcesContent":[".dv-capsule-chart {\n  position: relative;\n  display: flex;\n  flex-direction: row;\n  box-sizing: border-box;\n  padding: 10px;\n  color: #fff;\n}\n.dv-capsule-chart .label-column {\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n  box-sizing: border-box;\n  padding-right: 10px;\n  text-align: right;\n  font-size: 12px;\n}\n.dv-capsule-chart .label-column div {\n  height: 20px;\n  line-height: 20px;\n}\n.dv-capsule-chart .capsule-container {\n  flex: 1;\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n}\n.dv-capsule-chart .capsule-item {\n  box-shadow: 0 0 3px #999;\n  height: 10px;\n  margin: 5px 0px;\n  border-radius: 5px;\n}\n.dv-capsule-chart .capsule-item .capsule-item-column {\n  position: relative;\n  height: 8px;\n  margin-top: 1px;\n  border-radius: 5px;\n  transition: all 0.3s;\n  display: flex;\n  justify-content: flex-end;\n  align-items: center;\n}\n.dv-capsule-chart .capsule-item .capsule-item-column .capsule-item-value {\n  font-size: 12px;\n  transform: translateX(100%);\n}\n.dv-capsule-chart .unit-label {\n  height: 20px;\n  font-size: 12px;\n  position: relative;\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\n.dv-capsule-chart .unit-text {\n  text-align: right;\n  display: flex;\n  align-items: flex-end;\n  font-size: 12px;\n  line-height: 20px;\n  margin-left: 10px;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$y = undefined;
     /* module identifier */
     const __vue_module_identifier__$y = undefined;
     /* functional template */
     const __vue_is_functional_template__$y = false;
+=======
+    const __vue_scope_id__$w = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$w = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$w = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$y = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$y, staticRenderFns: __vue_staticRenderFns__$y },
       __vue_inject_styles__$y,
@@ -21798,6 +22967,15 @@
       __vue_scope_id__$y,
       __vue_is_functional_template__$y,
       __vue_module_identifier__$y,
+=======
+    const __vue_component__$w = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$w, staticRenderFns: __vue_staticRenderFns__$w },
+      __vue_inject_styles__$w,
+      __vue_script__$w,
+      __vue_scope_id__$w,
+      __vue_is_functional_template__$w,
+      __vue_module_identifier__$w,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -21805,11 +22983,19 @@
     );
 
   function capsuleChart (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$y.name, __vue_component__$y);
   }
 
   //
   var script$z = {
+=======
+    Vue.component(__vue_component__$w.name, __vue_component__$w);
+  }
+
+  //
+  var script$x = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvWaterLevelPond',
     props: {
       config: Object,
@@ -22108,10 +23294,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$z = script$z;
 
   /* template */
   var __vue_render__$z = function() {
+=======
+  const __vue_script__$x = script$x;
+
+  /* template */
+  var __vue_render__$x = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -22189,27 +23382,44 @@
       })
     ])
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$z = [];
   __vue_render__$z._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$z = function (inject) {
+=======
+  var __vue_staticRenderFns__$x = [];
+  __vue_render__$x._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$x = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-339dd272_0", { source: ".dv-water-pond-level {\n  position: relative;\n}\n.dv-water-pond-level svg {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-water-pond-level text {\n  font-size: 25px;\n  font-weight: bold;\n  text-anchor: middle;\n  dominant-baseline: middle;\n}\n.dv-water-pond-level ellipse,\n.dv-water-pond-level rect {\n  fill: none;\n  stroke-width: 3;\n}\n.dv-water-pond-level canvas {\n  margin-top: 8px;\n  margin-left: 8px;\n  width: calc(100% - 16px);\n  height: calc(100% - 16px);\n  box-sizing: border-box;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;AACpB;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,QAAQ;EACR,SAAS;AACX;AACA;EACE,eAAe;EACf,iBAAiB;EACjB,mBAAmB;EACnB,yBAAyB;AAC3B;AACA;;EAEE,UAAU;EACV,eAAe;AACjB;AACA;EACE,eAAe;EACf,gBAAgB;EAChB,wBAAwB;EACxB,yBAAyB;EACzB,sBAAsB;AACxB","file":"main.vue","sourcesContent":[".dv-water-pond-level {\n  position: relative;\n}\n.dv-water-pond-level svg {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-water-pond-level text {\n  font-size: 25px;\n  font-weight: bold;\n  text-anchor: middle;\n  dominant-baseline: middle;\n}\n.dv-water-pond-level ellipse,\n.dv-water-pond-level rect {\n  fill: none;\n  stroke-width: 3;\n}\n.dv-water-pond-level canvas {\n  margin-top: 8px;\n  margin-left: 8px;\n  width: calc(100% - 16px);\n  height: calc(100% - 16px);\n  box-sizing: border-box;\n}\n"]}, media: undefined });
+      inject("data-v-f7666052_0", { source: ".dv-water-pond-level {\n  position: relative;\n}\n.dv-water-pond-level svg {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-water-pond-level text {\n  font-size: 25px;\n  font-weight: bold;\n  text-anchor: middle;\n  dominant-baseline: middle;\n}\n.dv-water-pond-level ellipse,\n.dv-water-pond-level rect {\n  fill: none;\n  stroke-width: 3;\n}\n.dv-water-pond-level canvas {\n  margin-top: 8px;\n  margin-left: 8px;\n  width: calc(100% - 16px);\n  height: calc(100% - 16px);\n  box-sizing: border-box;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;AACpB;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,QAAQ;EACR,SAAS;AACX;AACA;EACE,eAAe;EACf,iBAAiB;EACjB,mBAAmB;EACnB,yBAAyB;AAC3B;AACA;;EAEE,UAAU;EACV,eAAe;AACjB;AACA;EACE,eAAe;EACf,gBAAgB;EAChB,wBAAwB;EACxB,yBAAyB;EACzB,sBAAsB;AACxB","file":"main.vue","sourcesContent":[".dv-water-pond-level {\n  position: relative;\n}\n.dv-water-pond-level svg {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dv-water-pond-level text {\n  font-size: 25px;\n  font-weight: bold;\n  text-anchor: middle;\n  dominant-baseline: middle;\n}\n.dv-water-pond-level ellipse,\n.dv-water-pond-level rect {\n  fill: none;\n  stroke-width: 3;\n}\n.dv-water-pond-level canvas {\n  margin-top: 8px;\n  margin-left: 8px;\n  width: calc(100% - 16px);\n  height: calc(100% - 16px);\n  box-sizing: border-box;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$z = undefined;
     /* module identifier */
     const __vue_module_identifier__$z = undefined;
     /* functional template */
     const __vue_is_functional_template__$z = false;
+=======
+    const __vue_scope_id__$x = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$x = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$x = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$z = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$z, staticRenderFns: __vue_staticRenderFns__$z },
       __vue_inject_styles__$z,
@@ -22217,6 +23427,15 @@
       __vue_scope_id__$z,
       __vue_is_functional_template__$z,
       __vue_module_identifier__$z,
+=======
+    const __vue_component__$x = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$x, staticRenderFns: __vue_staticRenderFns__$x },
+      __vue_inject_styles__$x,
+      __vue_script__$x,
+      __vue_scope_id__$x,
+      __vue_is_functional_template__$x,
+      __vue_module_identifier__$x,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -22224,11 +23443,19 @@
     );
 
   function waterLevelPond (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$z.name, __vue_component__$z);
   }
 
   //
   var script$A = {
+=======
+    Vue.component(__vue_component__$x.name, __vue_component__$x);
+  }
+
+  //
+  var script$y = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvPercentPond',
     props: {
       config: {
@@ -22475,10 +23702,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$A = script$A;
 
   /* template */
   var __vue_render__$A = function() {
+=======
+  const __vue_script__$y = script$y;
+
+  /* template */
+  var __vue_render__$y = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -22570,27 +23804,44 @@
       ])
     ])
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$A = [];
   __vue_render__$A._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$A = function (inject) {
+=======
+  var __vue_staticRenderFns__$y = [];
+  __vue_render__$y._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$y = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-553aa30c_0", { source: ".dv-percent-pond {\n  position: relative;\n  display: flex;\n  flex-direction: column;\n}\n.dv-percent-pond svg {\n  position: absolute;\n  left: 0px;\n  top: 0px;\n  width: 100%;\n  height: 100%;\n}\n.dv-percent-pond polyline {\n  transition: all 0.3s;\n}\n.dv-percent-pond text {\n  font-size: 25px;\n  font-weight: bold;\n  text-anchor: middle;\n  dominant-baseline: middle;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,aAAa;EACb,sBAAsB;AACxB;AACA;EACE,kBAAkB;EAClB,SAAS;EACT,QAAQ;EACR,WAAW;EACX,YAAY;AACd;AACA;EACE,oBAAoB;AACtB;AACA;EACE,eAAe;EACf,iBAAiB;EACjB,mBAAmB;EACnB,yBAAyB;AAC3B","file":"main.vue","sourcesContent":[".dv-percent-pond {\n  position: relative;\n  display: flex;\n  flex-direction: column;\n}\n.dv-percent-pond svg {\n  position: absolute;\n  left: 0px;\n  top: 0px;\n  width: 100%;\n  height: 100%;\n}\n.dv-percent-pond polyline {\n  transition: all 0.3s;\n}\n.dv-percent-pond text {\n  font-size: 25px;\n  font-weight: bold;\n  text-anchor: middle;\n  dominant-baseline: middle;\n}\n"]}, media: undefined });
+      inject("data-v-558b981c_0", { source: ".dv-percent-pond {\n  position: relative;\n  display: flex;\n  flex-direction: column;\n}\n.dv-percent-pond svg {\n  position: absolute;\n  left: 0px;\n  top: 0px;\n  width: 100%;\n  height: 100%;\n}\n.dv-percent-pond polyline {\n  transition: all 0.3s;\n}\n.dv-percent-pond text {\n  font-size: 25px;\n  font-weight: bold;\n  text-anchor: middle;\n  dominant-baseline: middle;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,aAAa;EACb,sBAAsB;AACxB;AACA;EACE,kBAAkB;EAClB,SAAS;EACT,QAAQ;EACR,WAAW;EACX,YAAY;AACd;AACA;EACE,oBAAoB;AACtB;AACA;EACE,eAAe;EACf,iBAAiB;EACjB,mBAAmB;EACnB,yBAAyB;AAC3B","file":"main.vue","sourcesContent":[".dv-percent-pond {\n  position: relative;\n  display: flex;\n  flex-direction: column;\n}\n.dv-percent-pond svg {\n  position: absolute;\n  left: 0px;\n  top: 0px;\n  width: 100%;\n  height: 100%;\n}\n.dv-percent-pond polyline {\n  transition: all 0.3s;\n}\n.dv-percent-pond text {\n  font-size: 25px;\n  font-weight: bold;\n  text-anchor: middle;\n  dominant-baseline: middle;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$A = undefined;
     /* module identifier */
     const __vue_module_identifier__$A = undefined;
     /* functional template */
     const __vue_is_functional_template__$A = false;
+=======
+    const __vue_scope_id__$y = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$y = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$y = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$A = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$A, staticRenderFns: __vue_staticRenderFns__$A },
       __vue_inject_styles__$A,
@@ -22598,6 +23849,15 @@
       __vue_scope_id__$A,
       __vue_is_functional_template__$A,
       __vue_module_identifier__$A,
+=======
+    const __vue_component__$y = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$y, staticRenderFns: __vue_staticRenderFns__$y },
+      __vue_inject_styles__$y,
+      __vue_script__$y,
+      __vue_scope_id__$y,
+      __vue_is_functional_template__$y,
+      __vue_module_identifier__$y,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -22605,11 +23865,19 @@
     );
 
   function percentPond (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$A.name, __vue_component__$A);
   }
 
   //
   var script$B = {
+=======
+    Vue.component(__vue_component__$y.name, __vue_component__$y);
+  }
+
+  //
+  var script$z = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvFlylineChart',
     mixins: [autoResize],
     props: {
@@ -23007,10 +24275,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$B = script$B;
 
   /* template */
   var __vue_render__$B = function() {
+=======
+  const __vue_script__$z = script$z;
+
+  /* template */
+  var __vue_render__$z = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -23291,27 +24566,44 @@
       ]
     )
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$B = [];
   __vue_render__$B._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$B = function (inject) {
+=======
+  var __vue_staticRenderFns__$z = [];
+  __vue_render__$z._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$z = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-20162046_0", { source: ".dv-flyline-chart {\n  display: flex;\n  flex-direction: column;\n  background-size: 100% 100%;\n}\n.dv-flyline-chart polyline {\n  transition: all 0.3s;\n}\n.dv-flyline-chart text {\n  text-anchor: middle;\n  dominant-baseline: middle;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,aAAa;EACb,sBAAsB;EACtB,0BAA0B;AAC5B;AACA;EACE,oBAAoB;AACtB;AACA;EACE,mBAAmB;EACnB,yBAAyB;AAC3B","file":"main.vue","sourcesContent":[".dv-flyline-chart {\n  display: flex;\n  flex-direction: column;\n  background-size: 100% 100%;\n}\n.dv-flyline-chart polyline {\n  transition: all 0.3s;\n}\n.dv-flyline-chart text {\n  text-anchor: middle;\n  dominant-baseline: middle;\n}\n"]}, media: undefined });
+      inject("data-v-d9630554_0", { source: ".dv-flyline-chart {\n  display: flex;\n  flex-direction: column;\n  background-size: 100% 100%;\n}\n.dv-flyline-chart polyline {\n  transition: all 0.3s;\n}\n.dv-flyline-chart text {\n  text-anchor: middle;\n  dominant-baseline: middle;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,aAAa;EACb,sBAAsB;EACtB,0BAA0B;AAC5B;AACA;EACE,oBAAoB;AACtB;AACA;EACE,mBAAmB;EACnB,yBAAyB;AAC3B","file":"main.vue","sourcesContent":[".dv-flyline-chart {\n  display: flex;\n  flex-direction: column;\n  background-size: 100% 100%;\n}\n.dv-flyline-chart polyline {\n  transition: all 0.3s;\n}\n.dv-flyline-chart text {\n  text-anchor: middle;\n  dominant-baseline: middle;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$B = undefined;
     /* module identifier */
     const __vue_module_identifier__$B = undefined;
     /* functional template */
     const __vue_is_functional_template__$B = false;
+=======
+    const __vue_scope_id__$z = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$z = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$z = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$B = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$B, staticRenderFns: __vue_staticRenderFns__$B },
       __vue_inject_styles__$B,
@@ -23319,6 +24611,15 @@
       __vue_scope_id__$B,
       __vue_is_functional_template__$B,
       __vue_module_identifier__$B,
+=======
+    const __vue_component__$z = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$z, staticRenderFns: __vue_staticRenderFns__$z },
+      __vue_inject_styles__$z,
+      __vue_script__$z,
+      __vue_scope_id__$z,
+      __vue_is_functional_template__$z,
+      __vue_module_identifier__$z,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -23326,11 +24627,19 @@
     );
 
   function flylineChart (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$B.name, __vue_component__$B);
   }
 
   //
   var script$C = {
+=======
+    Vue.component(__vue_component__$z.name, __vue_component__$z);
+  }
+
+  //
+  var script$A = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvFlylineChartEnhanced',
     mixins: [autoResize],
     props: {
@@ -23812,10 +25121,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$C = script$C;
 
   /* template */
   var __vue_render__$C = function() {
+=======
+  const __vue_script__$A = script$A;
+
+  /* template */
+  var __vue_render__$A = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -24076,27 +25392,44 @@
       ]
     )
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$C = [];
   __vue_render__$C._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$C = function (inject) {
+=======
+  var __vue_staticRenderFns__$A = [];
+  __vue_render__$A._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$A = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-039f50ef_0", { source: ".dv-flyline-chart-enhanced {\n  display: flex;\n  flex-direction: column;\n  background-size: 100% 100%;\n}\n.dv-flyline-chart-enhanced text {\n  text-anchor: middle;\n  dominant-baseline: middle;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,aAAa;EACb,sBAAsB;EACtB,0BAA0B;AAC5B;AACA;EACE,mBAAmB;EACnB,yBAAyB;AAC3B","file":"main.vue","sourcesContent":[".dv-flyline-chart-enhanced {\n  display: flex;\n  flex-direction: column;\n  background-size: 100% 100%;\n}\n.dv-flyline-chart-enhanced text {\n  text-anchor: middle;\n  dominant-baseline: middle;\n}\n"]}, media: undefined });
+      inject("data-v-67c425ff_0", { source: ".dv-flyline-chart-enhanced {\n  display: flex;\n  flex-direction: column;\n  background-size: 100% 100%;\n}\n.dv-flyline-chart-enhanced text {\n  text-anchor: middle;\n  dominant-baseline: middle;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,aAAa;EACb,sBAAsB;EACtB,0BAA0B;AAC5B;AACA;EACE,mBAAmB;EACnB,yBAAyB;AAC3B","file":"main.vue","sourcesContent":[".dv-flyline-chart-enhanced {\n  display: flex;\n  flex-direction: column;\n  background-size: 100% 100%;\n}\n.dv-flyline-chart-enhanced text {\n  text-anchor: middle;\n  dominant-baseline: middle;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$C = undefined;
     /* module identifier */
     const __vue_module_identifier__$C = undefined;
     /* functional template */
     const __vue_is_functional_template__$C = false;
+=======
+    const __vue_scope_id__$A = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$A = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$A = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$C = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$C, staticRenderFns: __vue_staticRenderFns__$C },
       __vue_inject_styles__$C,
@@ -24104,6 +25437,15 @@
       __vue_scope_id__$C,
       __vue_is_functional_template__$C,
       __vue_module_identifier__$C,
+=======
+    const __vue_component__$A = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$A, staticRenderFns: __vue_staticRenderFns__$A },
+      __vue_inject_styles__$A,
+      __vue_script__$A,
+      __vue_scope_id__$A,
+      __vue_is_functional_template__$A,
+      __vue_module_identifier__$A,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -24111,11 +25453,19 @@
     );
 
   function flylineChartEnhanced (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$C.name, __vue_component__$C);
   }
 
   //
   var script$D = {
+=======
+    Vue.component(__vue_component__$A.name, __vue_component__$A);
+  }
+
+  //
+  var script$B = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvConicalColumnChart',
     mixins: [autoResize],
     props: {
@@ -24296,10 +25646,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$D = script$D;
 
   /* template */
   var __vue_render__$D = function() {
+=======
+  const __vue_script__$B = script$B;
+
+  /* template */
+  var __vue_render__$B = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -24359,27 +25716,44 @@
       )
     ])
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$D = [];
   __vue_render__$D._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$D = function (inject) {
+=======
+  var __vue_staticRenderFns__$B = [];
+  __vue_render__$B._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$B = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-68aaf038_0", { source: ".dv-conical-column-chart {\n  width: 100%;\n  height: 100%;\n}\n.dv-conical-column-chart text {\n  text-anchor: middle;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;AACd;AACA;EACE,mBAAmB;AACrB","file":"main.vue","sourcesContent":[".dv-conical-column-chart {\n  width: 100%;\n  height: 100%;\n}\n.dv-conical-column-chart text {\n  text-anchor: middle;\n}\n"]}, media: undefined });
+      inject("data-v-1041e4f4_0", { source: ".dv-conical-column-chart {\n  width: 100%;\n  height: 100%;\n}\n.dv-conical-column-chart text {\n  text-anchor: middle;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;AACd;AACA;EACE,mBAAmB;AACrB","file":"main.vue","sourcesContent":[".dv-conical-column-chart {\n  width: 100%;\n  height: 100%;\n}\n.dv-conical-column-chart text {\n  text-anchor: middle;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$D = undefined;
     /* module identifier */
     const __vue_module_identifier__$D = undefined;
     /* functional template */
     const __vue_is_functional_template__$D = false;
+=======
+    const __vue_scope_id__$B = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$B = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$B = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$D = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$D, staticRenderFns: __vue_staticRenderFns__$D },
       __vue_inject_styles__$D,
@@ -24387,6 +25761,15 @@
       __vue_scope_id__$D,
       __vue_is_functional_template__$D,
       __vue_module_identifier__$D,
+=======
+    const __vue_component__$B = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$B, staticRenderFns: __vue_staticRenderFns__$B },
+      __vue_inject_styles__$B,
+      __vue_script__$B,
+      __vue_scope_id__$B,
+      __vue_is_functional_template__$B,
+      __vue_module_identifier__$B,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -24394,6 +25777,7 @@
     );
 
   function conicalColumnChart (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$D.name, __vue_component__$D);
   }
 
@@ -24403,6 +25787,17 @@
 
   //
   var script$E = {
+=======
+    Vue.component(__vue_component__$B.name, __vue_component__$B);
+  }
+
+  function digitalFlop (Vue) {
+    Vue.component(__vue_component__$u.name, __vue_component__$u);
+  }
+
+  //
+  var script$C = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvScrollBoard',
     mixins: [autoResize],
     props: {
@@ -24816,10 +26211,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$E = script$E;
 
   /* template */
   var __vue_render__$E = function() {
+=======
+  const __vue_script__$C = script$C;
+
+  /* template */
+  var __vue_render__$C = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -24907,27 +26309,44 @@
         : _vm._e()
     ])
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$E = [];
   __vue_render__$E._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$E = function (inject) {
+=======
+  var __vue_staticRenderFns__$C = [];
+  __vue_render__$C._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$C = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-cf2d9bc6_0", { source: ".dv-scroll-board {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  color: #fff;\n}\n.dv-scroll-board .text {\n  padding: 0 10px;\n  box-sizing: border-box;\n  white-space: nowrap;\n  overflow: hidden;\n  text-overflow: ellipsis;\n}\n.dv-scroll-board .header {\n  display: flex;\n  flex-direction: row;\n  font-size: 15px;\n}\n.dv-scroll-board .header .header-item {\n  padding: 0 10px;\n  box-sizing: border-box;\n  white-space: nowrap;\n  overflow: hidden;\n  text-overflow: ellipsis;\n  transition: all 0.3s;\n}\n.dv-scroll-board .rows {\n  overflow: hidden;\n}\n.dv-scroll-board .rows .row-item {\n  display: flex;\n  font-size: 14px;\n  transition: all 0.3s;\n}\n.dv-scroll-board .rows .ceil {\n  padding: 0 10px;\n  box-sizing: border-box;\n  white-space: nowrap;\n  overflow: hidden;\n  text-overflow: ellipsis;\n}\n.dv-scroll-board .rows .index {\n  border-radius: 3px;\n  padding: 0px 3px;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,WAAW;AACb;AACA;EACE,eAAe;EACf,sBAAsB;EACtB,mBAAmB;EACnB,gBAAgB;EAChB,uBAAuB;AACzB;AACA;EACE,aAAa;EACb,mBAAmB;EACnB,eAAe;AACjB;AACA;EACE,eAAe;EACf,sBAAsB;EACtB,mBAAmB;EACnB,gBAAgB;EAChB,uBAAuB;EACvB,oBAAoB;AACtB;AACA;EACE,gBAAgB;AAClB;AACA;EACE,aAAa;EACb,eAAe;EACf,oBAAoB;AACtB;AACA;EACE,eAAe;EACf,sBAAsB;EACtB,mBAAmB;EACnB,gBAAgB;EAChB,uBAAuB;AACzB;AACA;EACE,kBAAkB;EAClB,gBAAgB;AAClB","file":"main.vue","sourcesContent":[".dv-scroll-board {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  color: #fff;\n}\n.dv-scroll-board .text {\n  padding: 0 10px;\n  box-sizing: border-box;\n  white-space: nowrap;\n  overflow: hidden;\n  text-overflow: ellipsis;\n}\n.dv-scroll-board .header {\n  display: flex;\n  flex-direction: row;\n  font-size: 15px;\n}\n.dv-scroll-board .header .header-item {\n  padding: 0 10px;\n  box-sizing: border-box;\n  white-space: nowrap;\n  overflow: hidden;\n  text-overflow: ellipsis;\n  transition: all 0.3s;\n}\n.dv-scroll-board .rows {\n  overflow: hidden;\n}\n.dv-scroll-board .rows .row-item {\n  display: flex;\n  font-size: 14px;\n  transition: all 0.3s;\n}\n.dv-scroll-board .rows .ceil {\n  padding: 0 10px;\n  box-sizing: border-box;\n  white-space: nowrap;\n  overflow: hidden;\n  text-overflow: ellipsis;\n}\n.dv-scroll-board .rows .index {\n  border-radius: 3px;\n  padding: 0px 3px;\n}\n"]}, media: undefined });
+      inject("data-v-03e789e6_0", { source: ".dv-scroll-board {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  color: #fff;\n}\n.dv-scroll-board .text {\n  padding: 0 10px;\n  box-sizing: border-box;\n  white-space: nowrap;\n  overflow: hidden;\n  text-overflow: ellipsis;\n}\n.dv-scroll-board .header {\n  display: flex;\n  flex-direction: row;\n  font-size: 15px;\n}\n.dv-scroll-board .header .header-item {\n  padding: 0 10px;\n  box-sizing: border-box;\n  white-space: nowrap;\n  overflow: hidden;\n  text-overflow: ellipsis;\n  transition: all 0.3s;\n}\n.dv-scroll-board .rows {\n  overflow: hidden;\n}\n.dv-scroll-board .rows .row-item {\n  display: flex;\n  font-size: 14px;\n  transition: all 0.3s;\n}\n.dv-scroll-board .rows .ceil {\n  padding: 0 10px;\n  box-sizing: border-box;\n  white-space: nowrap;\n  overflow: hidden;\n  text-overflow: ellipsis;\n}\n.dv-scroll-board .rows .index {\n  border-radius: 3px;\n  padding: 0px 3px;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,WAAW;AACb;AACA;EACE,eAAe;EACf,sBAAsB;EACtB,mBAAmB;EACnB,gBAAgB;EAChB,uBAAuB;AACzB;AACA;EACE,aAAa;EACb,mBAAmB;EACnB,eAAe;AACjB;AACA;EACE,eAAe;EACf,sBAAsB;EACtB,mBAAmB;EACnB,gBAAgB;EAChB,uBAAuB;EACvB,oBAAoB;AACtB;AACA;EACE,gBAAgB;AAClB;AACA;EACE,aAAa;EACb,eAAe;EACf,oBAAoB;AACtB;AACA;EACE,eAAe;EACf,sBAAsB;EACtB,mBAAmB;EACnB,gBAAgB;EAChB,uBAAuB;AACzB;AACA;EACE,kBAAkB;EAClB,gBAAgB;AAClB","file":"main.vue","sourcesContent":[".dv-scroll-board {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  color: #fff;\n}\n.dv-scroll-board .text {\n  padding: 0 10px;\n  box-sizing: border-box;\n  white-space: nowrap;\n  overflow: hidden;\n  text-overflow: ellipsis;\n}\n.dv-scroll-board .header {\n  display: flex;\n  flex-direction: row;\n  font-size: 15px;\n}\n.dv-scroll-board .header .header-item {\n  padding: 0 10px;\n  box-sizing: border-box;\n  white-space: nowrap;\n  overflow: hidden;\n  text-overflow: ellipsis;\n  transition: all 0.3s;\n}\n.dv-scroll-board .rows {\n  overflow: hidden;\n}\n.dv-scroll-board .rows .row-item {\n  display: flex;\n  font-size: 14px;\n  transition: all 0.3s;\n}\n.dv-scroll-board .rows .ceil {\n  padding: 0 10px;\n  box-sizing: border-box;\n  white-space: nowrap;\n  overflow: hidden;\n  text-overflow: ellipsis;\n}\n.dv-scroll-board .rows .index {\n  border-radius: 3px;\n  padding: 0px 3px;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$E = undefined;
     /* module identifier */
     const __vue_module_identifier__$E = undefined;
     /* functional template */
     const __vue_is_functional_template__$E = false;
+=======
+    const __vue_scope_id__$C = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$C = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$C = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$E = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$E, staticRenderFns: __vue_staticRenderFns__$E },
       __vue_inject_styles__$E,
@@ -24935,6 +26354,15 @@
       __vue_scope_id__$E,
       __vue_is_functional_template__$E,
       __vue_module_identifier__$E,
+=======
+    const __vue_component__$C = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$C, staticRenderFns: __vue_staticRenderFns__$C },
+      __vue_inject_styles__$C,
+      __vue_script__$C,
+      __vue_scope_id__$C,
+      __vue_is_functional_template__$C,
+      __vue_module_identifier__$C,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -24942,11 +26370,19 @@
     );
 
   function scrollBoard (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$E.name, __vue_component__$E);
   }
 
   //
   var script$F = {
+=======
+    Vue.component(__vue_component__$C.name, __vue_component__$C);
+  }
+
+  //
+  var script$D = {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     name: 'DvScrollRankingBoard',
     mixins: [autoResize],
     props: {
@@ -25187,10 +26623,17 @@
   };
 
   /* script */
+<<<<<<< HEAD
   const __vue_script__$F = script$F;
 
   /* template */
   var __vue_render__$F = function() {
+=======
+  const __vue_script__$D = script$D;
+
+  /* template */
+  var __vue_render__$D = function() {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     var _vm = this;
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
@@ -25243,27 +26686,44 @@
       0
     )
   };
+<<<<<<< HEAD
   var __vue_staticRenderFns__$F = [];
   __vue_render__$F._withStripped = true;
 
     /* style */
     const __vue_inject_styles__$F = function (inject) {
+=======
+  var __vue_staticRenderFns__$D = [];
+  __vue_render__$D._withStripped = true;
+
+    /* style */
+    const __vue_inject_styles__$D = function (inject) {
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       if (!inject) return
-      inject("data-v-122563e0_0", { source: ".dv-scroll-ranking-board {\n  width: 100%;\n  height: 100%;\n  color: #fff;\n  overflow: hidden;\n}\n.dv-scroll-ranking-board .row-item {\n  transition: all 0.3s;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  overflow: hidden;\n}\n.dv-scroll-ranking-board .ranking-info {\n  display: flex;\n  width: 100%;\n  font-size: 13px;\n}\n.dv-scroll-ranking-board .ranking-info .rank {\n  width: 40px;\n  color: #1370fb;\n}\n.dv-scroll-ranking-board .ranking-info .info-name {\n  flex: 1;\n}\n.dv-scroll-ranking-board .ranking-column {\n  border-bottom: 2px solid rgba(19, 112, 251, 0.5);\n  margin-top: 5px;\n}\n.dv-scroll-ranking-board .ranking-column .inside-column {\n  position: relative;\n  height: 6px;\n  background-color: #1370fb;\n  margin-bottom: 2px;\n  border-radius: 1px;\n  overflow: hidden;\n}\n.dv-scroll-ranking-board .ranking-column .shine {\n  position: absolute;\n  left: 0%;\n  top: 2px;\n  height: 2px;\n  width: 50px;\n  transform: translateX(-100%);\n  background: radial-gradient(#28f8ff 5%, transparent 80%);\n  animation: shine 3s ease-in-out infinite alternate;\n}\n@keyframes shine {\n80% {\n    left: 0%;\n    transform: translateX(-100%);\n}\n100% {\n    left: 100%;\n    transform: translateX(0%);\n}\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;EACZ,WAAW;EACX,gBAAgB;AAClB;AACA;EACE,oBAAoB;EACpB,aAAa;EACb,sBAAsB;EACtB,uBAAuB;EACvB,gBAAgB;AAClB;AACA;EACE,aAAa;EACb,WAAW;EACX,eAAe;AACjB;AACA;EACE,WAAW;EACX,cAAc;AAChB;AACA;EACE,OAAO;AACT;AACA;EACE,gDAAgD;EAChD,eAAe;AACjB;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,yBAAyB;EACzB,kBAAkB;EAClB,kBAAkB;EAClB,gBAAgB;AAClB;AACA;EACE,kBAAkB;EAClB,QAAQ;EACR,QAAQ;EACR,WAAW;EACX,WAAW;EACX,4BAA4B;EAC5B,wDAAwD;EACxD,kDAAkD;AACpD;AACA;AACE;IACE,QAAQ;IACR,4BAA4B;AAC9B;AACA;IACE,UAAU;IACV,yBAAyB;AAC3B;AACF","file":"main.vue","sourcesContent":[".dv-scroll-ranking-board {\n  width: 100%;\n  height: 100%;\n  color: #fff;\n  overflow: hidden;\n}\n.dv-scroll-ranking-board .row-item {\n  transition: all 0.3s;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  overflow: hidden;\n}\n.dv-scroll-ranking-board .ranking-info {\n  display: flex;\n  width: 100%;\n  font-size: 13px;\n}\n.dv-scroll-ranking-board .ranking-info .rank {\n  width: 40px;\n  color: #1370fb;\n}\n.dv-scroll-ranking-board .ranking-info .info-name {\n  flex: 1;\n}\n.dv-scroll-ranking-board .ranking-column {\n  border-bottom: 2px solid rgba(19, 112, 251, 0.5);\n  margin-top: 5px;\n}\n.dv-scroll-ranking-board .ranking-column .inside-column {\n  position: relative;\n  height: 6px;\n  background-color: #1370fb;\n  margin-bottom: 2px;\n  border-radius: 1px;\n  overflow: hidden;\n}\n.dv-scroll-ranking-board .ranking-column .shine {\n  position: absolute;\n  left: 0%;\n  top: 2px;\n  height: 2px;\n  width: 50px;\n  transform: translateX(-100%);\n  background: radial-gradient(#28f8ff 5%, transparent 80%);\n  animation: shine 3s ease-in-out infinite alternate;\n}\n@keyframes shine {\n  80% {\n    left: 0%;\n    transform: translateX(-100%);\n  }\n  100% {\n    left: 100%;\n    transform: translateX(0%);\n  }\n}\n"]}, media: undefined });
+      inject("data-v-6b0711c0_0", { source: ".dv-scroll-ranking-board {\n  width: 100%;\n  height: 100%;\n  color: #fff;\n  overflow: hidden;\n}\n.dv-scroll-ranking-board .row-item {\n  transition: all 0.3s;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  overflow: hidden;\n}\n.dv-scroll-ranking-board .ranking-info {\n  display: flex;\n  width: 100%;\n  font-size: 13px;\n}\n.dv-scroll-ranking-board .ranking-info .rank {\n  width: 40px;\n  color: #1370fb;\n}\n.dv-scroll-ranking-board .ranking-info .info-name {\n  flex: 1;\n}\n.dv-scroll-ranking-board .ranking-column {\n  border-bottom: 2px solid rgba(19, 112, 251, 0.5);\n  margin-top: 5px;\n}\n.dv-scroll-ranking-board .ranking-column .inside-column {\n  position: relative;\n  height: 6px;\n  background-color: #1370fb;\n  margin-bottom: 2px;\n  border-radius: 1px;\n  overflow: hidden;\n}\n.dv-scroll-ranking-board .ranking-column .shine {\n  position: absolute;\n  left: 0%;\n  top: 2px;\n  height: 2px;\n  width: 50px;\n  transform: translateX(-100%);\n  background: radial-gradient(#28f8ff 5%, transparent 80%);\n  animation: shine 3s ease-in-out infinite alternate;\n}\n@keyframes shine {\n80% {\n    left: 0%;\n    transform: translateX(-100%);\n}\n100% {\n    left: 100%;\n    transform: translateX(0%);\n}\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;EACZ,WAAW;EACX,gBAAgB;AAClB;AACA;EACE,oBAAoB;EACpB,aAAa;EACb,sBAAsB;EACtB,uBAAuB;EACvB,gBAAgB;AAClB;AACA;EACE,aAAa;EACb,WAAW;EACX,eAAe;AACjB;AACA;EACE,WAAW;EACX,cAAc;AAChB;AACA;EACE,OAAO;AACT;AACA;EACE,gDAAgD;EAChD,eAAe;AACjB;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,yBAAyB;EACzB,kBAAkB;EAClB,kBAAkB;EAClB,gBAAgB;AAClB;AACA;EACE,kBAAkB;EAClB,QAAQ;EACR,QAAQ;EACR,WAAW;EACX,WAAW;EACX,4BAA4B;EAC5B,wDAAwD;EACxD,kDAAkD;AACpD;AACA;AACE;IACE,QAAQ;IACR,4BAA4B;AAC9B;AACA;IACE,UAAU;IACV,yBAAyB;AAC3B;AACF","file":"main.vue","sourcesContent":[".dv-scroll-ranking-board {\n  width: 100%;\n  height: 100%;\n  color: #fff;\n  overflow: hidden;\n}\n.dv-scroll-ranking-board .row-item {\n  transition: all 0.3s;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  overflow: hidden;\n}\n.dv-scroll-ranking-board .ranking-info {\n  display: flex;\n  width: 100%;\n  font-size: 13px;\n}\n.dv-scroll-ranking-board .ranking-info .rank {\n  width: 40px;\n  color: #1370fb;\n}\n.dv-scroll-ranking-board .ranking-info .info-name {\n  flex: 1;\n}\n.dv-scroll-ranking-board .ranking-column {\n  border-bottom: 2px solid rgba(19, 112, 251, 0.5);\n  margin-top: 5px;\n}\n.dv-scroll-ranking-board .ranking-column .inside-column {\n  position: relative;\n  height: 6px;\n  background-color: #1370fb;\n  margin-bottom: 2px;\n  border-radius: 1px;\n  overflow: hidden;\n}\n.dv-scroll-ranking-board .ranking-column .shine {\n  position: absolute;\n  left: 0%;\n  top: 2px;\n  height: 2px;\n  width: 50px;\n  transform: translateX(-100%);\n  background: radial-gradient(#28f8ff 5%, transparent 80%);\n  animation: shine 3s ease-in-out infinite alternate;\n}\n@keyframes shine {\n  80% {\n    left: 0%;\n    transform: translateX(-100%);\n  }\n  100% {\n    left: 100%;\n    transform: translateX(0%);\n  }\n}\n"]}, media: undefined });
 
     };
     /* scoped */
+<<<<<<< HEAD
     const __vue_scope_id__$F = undefined;
     /* module identifier */
     const __vue_module_identifier__$F = undefined;
     /* functional template */
     const __vue_is_functional_template__$F = false;
+=======
+    const __vue_scope_id__$D = undefined;
+    /* module identifier */
+    const __vue_module_identifier__$D = undefined;
+    /* functional template */
+    const __vue_is_functional_template__$D = false;
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
     /* style inject SSR */
     
     /* style inject shadow dom */
     
 
     
+<<<<<<< HEAD
     const __vue_component__$F = /*#__PURE__*/normalizeComponent(
       { render: __vue_render__$F, staticRenderFns: __vue_staticRenderFns__$F },
       __vue_inject_styles__$F,
@@ -25271,6 +26731,15 @@
       __vue_scope_id__$F,
       __vue_is_functional_template__$F,
       __vue_module_identifier__$F,
+=======
+    const __vue_component__$D = /*#__PURE__*/normalizeComponent(
+      { render: __vue_render__$D, staticRenderFns: __vue_staticRenderFns__$D },
+      __vue_inject_styles__$D,
+      __vue_script__$D,
+      __vue_scope_id__$D,
+      __vue_is_functional_template__$D,
+      __vue_module_identifier__$D,
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
       false,
       createInjector,
       undefined,
@@ -25278,7 +26747,11 @@
     );
 
   function scrollRankingBoard (Vue) {
+<<<<<<< HEAD
     Vue.component(__vue_component__$F.name, __vue_component__$F);
+=======
+    Vue.component(__vue_component__$D.name, __vue_component__$D);
+>>>>>>> cb2a5c040c940c6b006a1da8fcb2a21a75f8f588
   }
 
   /**
@@ -25304,7 +26777,9 @@
     Vue.use(borderBox10);
     Vue.use(borderBox11);
     Vue.use(borderBox12);
-    Vue.use(borderBox13); // decoration
+    Vue.use(borderBox13);
+    Vue.use(daoBorderBox2);
+    Vue.use(daoBorderBox4); // decoration
 
     Vue.use(decoration1);
     Vue.use(decoration2);
