@@ -41,8 +41,8 @@
                 <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
                 <use stroke="#019EFF" stroke-width="1" xlink:href="#path-5"></use>
             </g>
-            <polyline stroke="#019EFF" :points="polyline1"></polyline>
-            <polyline stroke="#019EFF" :transform="`translate(${26.120141 * tempBase[0]}, ${83.021438 * tempBase[1]}) scale(-1, -1) translate(${-26.120141 * tempBase[0]}, ${-83.021438 * tempBase[1]})`" :points="polyline2"></polyline>
+            <polyline stroke="#019EFF" :points="polylineData1"></polyline>
+            <polyline stroke="#019EFF" :transform="`translate(${26.120141 * tempBase[0]}, ${83.021438 * tempBase[1]}) scale(-1, -1) translate(${-26.120141 * tempBase[0]}, ${-83.021438 * tempBase[1]})`" :points="polylineData2"></polyline>
         </g>
     </g>
   </svg>
@@ -56,14 +56,14 @@
 
 <script>
 import autoResize from '../../../mixin/autoResize'
-
+import computedSvgRealSize from '../../../mixin/computedSvgRealSize'
 import { deepMerge } from '@jiaminghi/charts/lib/util/index'
 
 import { deepClone } from '@jiaminghi/c-render/lib/plugin/util'
 const viewBase = [267,103]
 export default {
   name: 'DaoBorderBox1',
-  mixins: [autoResize],
+  mixins: [autoResize, computedSvgRealSize],
   props: {
     color: {
       type: Array,
@@ -77,10 +77,13 @@ export default {
   data () {
     return {
       ref: 'border-box-13',
-
       defaultColor: ['#6586ec', '#019EFF'],
-
-      mergedColor: []
+      mergedColor: [],
+      polygon1: [16.964845,0, 0, 17.1022249, 0, 100.604248, 249.15542, 100.604248, 265.1726, 84.9547224, 265.1726, 0],
+      polygon3: [11.6404777,0,0,0,0,11.6404777],
+      polygon5: [264.9865, 88.456291, 253.411149, 88.456291, 253.411149, 100.096769],
+      polyline1: [221.730981,8.28814409,258.148966,8.28814409,258.148966,28.4184375],
+      polyline2: [7.9111486, 72.956291, 44.3291337, 72.956291, 44.3291337, 93.0865844],
     }
   },
   watch: {
@@ -96,11 +99,6 @@ export default {
 
       this.mergedColor = deepMerge(deepClone(defaultColor, true), color || [])
     },
-    computedSvgRealSize(arr) {
-      return arr.map((item, idx) => {
-        return idx % 2 && item * this.tempBase[1] || item * this.tempBase[0]
-      }).join(' ')
-    }
   },
   mounted () {
     const { mergeColor } = this
@@ -109,24 +107,19 @@ export default {
   },
   computed:{
     polygonData1() {
-      const temp = [16.964845,1, 1, 17.1022249, 1, 100.604248, 249.15542, 100.604248, 265.1726, 84.9547224, 265.1726, 1]
-      return this.computedSvgRealSize(temp)
+      return this.computedSvgRealSize(this.polygon1, this.tempBase)
     },
     polygonData3() {
-      const temp = [11.6404777,0,0,0,0,11.6404777]
-      return this.computedSvgRealSize(temp)
+      return this.computedSvgRealSize(this.polygon3, this.tempBase)
     },
     polygonData5() {
-      const temp = [264.9865, 88.456291, 253.411149, 88.456291, 253.411149, 100.096769]
-      return this.computedSvgRealSize(temp)
+      return this.computedSvgRealSize(this.polygon5, this.tempBase)
     },
-    polyline1() {
-      const temp = [221.730981,8.28814409,258.148966,8.28814409,258.148966,28.4184375]
-      return this.computedSvgRealSize(temp)
+    polylineData1() {
+      return this.computedSvgRealSize(this.polyline1, this.tempBase)
     },
-    polyline2() {
-      const temp = [7.9111486, 72.956291, 44.3291337, 72.956291, 44.3291337, 93.0865844]
-      return this.computedSvgRealSize(temp)
+    polylineData2() {
+      return this.computedSvgRealSize(this.polyline2, this.tempBase)
     },
     tempBase() {
       return [this.width / viewBase[0], this.height / viewBase[1]]

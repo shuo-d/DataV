@@ -19,6 +19,8 @@ import borderBox11 from './components/borderBox11/index'
 import borderBox12 from './components/borderBox12/index'
 import borderBox13 from './components/borderBox13/index'
 import daoBorderBox1 from './components/daoBorderBox1/index'
+import daoBorderBox3 from './components/daoBorderBox3/index'
+import daoBorderBox5 from './components/daoBorderBox5/index'
 // decoration
 import decoration1 from './components/decoration1/index'
 import decoration2 from './components/decoration2/index'
@@ -32,7 +34,7 @@ import decoration9 from './components/decoration9/index'
 import decoration10 from './components/decoration10/index'
 import decoration11 from './components/decoration11/index'
 import decoration12 from './components/decoration12/index'
-
+import decoration13 from './components/decoration13/index'
 // charts
 import charts from './components/charts/index'
 
@@ -97,4 +99,7 @@ export default function (Vue) {
   Vue.use(scrollBoard)
   Vue.use(scrollRankingBoard)
   Vue.use(daoBorderBox1)
+  Vue.use(daoBorderBox3)
+  Vue.use(decoration13)
+  Vue.use(daoBorderBox5)
 }
