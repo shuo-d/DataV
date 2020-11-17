@@ -2,24 +2,24 @@
   <div class="dao-border-box-1" :ref="ref">
     <svg class="dv-border-svg-container" :width="width" :height="height" :viewBox="`0 0 ${width} ${height}`">
     <defs>
-        <polygon
+        <!-- <polygon
           id="path-1" 
           :points="polygonData1"
-        ></polygon>
+        ></polygon> -->
         <filter x="-3.6%" y="-9.5%" width="107.2%" height="119.1%" filterUnits="objectBoundingBox" id="filter-2">
             <feGaussianBlur stdDeviation="9" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
             <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
             <feColorMatrix values="0 0 0 0 0.00392156863   0 0 0 0 0.619607843   0 0 0 0 1  0 0 0 0.268711757 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
         </filter>
-        <polygon id="path-3" :points="polygonData3"></polygon>
+        <!-- <polygon id="path-3" :points="polygonData3"></polygon> -->
         <filter x="-21.6%" y="-21.5%" width="149.3%" height="149.1%" filterUnits="objectBoundingBox" id="filter-4">
             <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
             <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
             <feColorMatrix values="0 0 0 0 0.00392156863   0 0 0 0 0.619607843   0 0 0 0 1  0 0 0 0.521388767 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
         </filter>
-        <polygon id="path-5" :points="polygonData5"></polygon>
+        <!-- <polygon id="path-5" :points="polygonData5"></polygon> -->
         <filter x="-21.6%" y="-21.5%" width="149.3%" height="149.1%" filterUnits="objectBoundingBox" id="filter-6">
             <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
             <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
@@ -30,16 +30,40 @@
     <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g transform="translate(1.000000, 1.000000)">
             <g>
-                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-                <use stroke="#019EFF" stroke-width="1" xlink:href="#path-1"></use>
+                <!-- <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use> -->
+                <!-- <use stroke="#019EFF" stroke-width="1" xlink:href="#path-1"></use> -->
+                <polygon
+                  fill="black"
+                  fill-opacity="1"
+                  filter="url(#filter-2)"
+                  :points="polygonData1"
+                ></polygon>
+                <polygon
+                  stroke="#019EFF"
+                  stroke-width="1"
+                  :points="polygonData1"
+                ></polygon>
             </g>
             <g>
-                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
-                <use stroke="#019EFF" stroke-width="1" xlink:href="#path-3"></use>
+                <polygon
+                  fill="black"
+                  fill-opacity="1"
+                  filter="url(#filter-4)"
+                  :points="polygonData3"
+                />
+                <polygon
+                  stroke="#019EFF"
+                  stroke-width="1"
+                  :points="polygonData3"
+                />
+                <!-- <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use> -->
+                <!-- <use stroke="#019EFF" stroke-width="1" xlink:href="#path-3"></use> -->
             </g>
             <g :transform="`translate(${259.198824 * tempBase[0] }, ${94.276530 * tempBase[1]}) scale(-1, -1) translate(${-259.198824 * tempBase[0]}, ${-94.276530 * tempBase[1]})`">
-                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
-                <use stroke="#019EFF" stroke-width="1" xlink:href="#path-5"></use>
+                <!-- <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use> -->
+                <!-- <use stroke="#019EFF" stroke-width="1" xlink:href="#path-5"></use> -->
+                <polygon fill="black" fill-opacity="1" filter="url(#filter-6)" :points="polygonData5"></polygon>
+                <polygon stroke="#019EFF" stroke-width="1" :points="polygonData5"></polygon>
             </g>
             <polyline stroke="#019EFF" :points="polylineData1"></polyline>
             <polyline stroke="#019EFF" :transform="`translate(${26.120141 * tempBase[0]}, ${83.021438 * tempBase[1]}) scale(-1, -1) translate(${-26.120141 * tempBase[0]}, ${-83.021438 * tempBase[1]})`" :points="polylineData2"></polyline>
