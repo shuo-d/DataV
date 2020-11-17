@@ -5315,8 +5315,6 @@
         },
         [
           _c("defs", [
-            _c("polygon", { attrs: { id: "path-1", points: _vm.polygonData1 } }),
-            _vm._v(" "),
             _c(
               "filter",
               {
@@ -5370,8 +5368,6 @@
               1
             ),
             _vm._v(" "),
-            _c("polygon", { attrs: { id: "path-3", points: _vm.polygonData3 } }),
-            _vm._v(" "),
             _c(
               "filter",
               {
@@ -5424,8 +5420,6 @@
               ],
               1
             ),
-            _vm._v(" "),
-            _c("polygon", { attrs: { id: "path-5", points: _vm.polygonData5 } }),
             _vm._v(" "),
             _c(
               "filter",
@@ -5494,39 +5488,39 @@
             [
               _c("g", { attrs: { transform: "translate(1.000000, 1.000000)" } }, [
                 _c("g", [
-                  _c("use", {
+                  _c("polygon", {
                     attrs: {
                       fill: "black",
                       "fill-opacity": "1",
                       filter: "url(#filter-2)",
-                      "xlink:href": "#path-1"
+                      points: _vm.polygonData1
                     }
                   }),
                   _vm._v(" "),
-                  _c("use", {
+                  _c("polygon", {
                     attrs: {
                       stroke: "#019EFF",
                       "stroke-width": "1",
-                      "xlink:href": "#path-1"
+                      points: _vm.polygonData1
                     }
                   })
                 ]),
                 _vm._v(" "),
                 _c("g", [
-                  _c("use", {
+                  _c("polygon", {
                     attrs: {
                       fill: "black",
                       "fill-opacity": "1",
                       filter: "url(#filter-4)",
-                      "xlink:href": "#path-3"
+                      points: _vm.polygonData3
                     }
                   }),
                   _vm._v(" "),
-                  _c("use", {
+                  _c("polygon", {
                     attrs: {
                       stroke: "#019EFF",
                       "stroke-width": "1",
-                      "xlink:href": "#path-3"
+                      points: _vm.polygonData3
                     }
                   })
                 ]),
@@ -5548,20 +5542,20 @@
                     }
                   },
                   [
-                    _c("use", {
+                    _c("polygon", {
                       attrs: {
                         fill: "black",
                         "fill-opacity": "1",
                         filter: "url(#filter-6)",
-                        "xlink:href": "#path-5"
+                        points: _vm.polygonData5
                       }
                     }),
                     _vm._v(" "),
-                    _c("use", {
+                    _c("polygon", {
                       attrs: {
                         stroke: "#019EFF",
                         "stroke-width": "1",
-                        "xlink:href": "#path-5"
+                        points: _vm.polygonData5
                       }
                     })
                   ]
@@ -5602,7 +5596,7 @@
     /* style */
     const __vue_inject_styles__$f = function (inject) {
       if (!inject) return
-      inject("data-v-5575cfd8_0", { source: ".dao-border-box-1 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dao-border-box-1 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dao-border-box-1 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,QAAQ;EACR,SAAS;AACX;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dao-border-box-1 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dao-border-box-1 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dao-border-box-1 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
+      inject("data-v-656a6740_0", { source: ".dao-border-box-1 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dao-border-box-1 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dao-border-box-1 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,QAAQ;EACR,SAAS;AACX;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dao-border-box-1 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dao-border-box-1 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dao-border-box-1 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
 
     };
     /* scoped */

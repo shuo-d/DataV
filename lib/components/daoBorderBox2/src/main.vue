@@ -44,8 +44,13 @@
             fill="url(#radialGradient-1)"
             x="1"
             y="1"
+<<<<<<< HEAD
             :width="`${width > 4 ? width - 4 : width}`"
             :height="`${height > 4 ? height - 4 : height}`"
+=======
+            :width="`${width - 4}`"
+            :height="`${height - 4}`"
+>>>>>>> 82bb6b1581036b18e6ddc66aa69bfca2533a7123
             rx="2"
           ></rect>
           <path
