@@ -32,15 +32,15 @@ export default {
   props: {
     title: {
       type: String,
-      default: '',
+      default: ''
     },
     subTit: {
       type: String,
-      default: '',s
+      default: ''
     },
     content: {
       type: String,
-      default: '',
+      default: ''
     }
   },
   data () {
