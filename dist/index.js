@@ -9366,19 +9366,16 @@
     name: 'Decoration13',
     mixins: [autoResize, computedSvgRealSize],
     props: {
-      titleColor: {
+      title: {
         type: String,
         default: ''
       },
-      subTitColor: {
+      subTit: {
         type: String,
-        default: ''
+        default: '',
+        s
       },
-      borderColor: {
-        type: String,
-        default: ''
-      },
-      contentColor: {
+      content: {
         type: String,
         default: ''
       }
@@ -9487,7 +9484,7 @@
                           y: "" + 16 * _vm.tempBase[1]
                         }
                       },
-                      [_vm._v("租户A")]
+                      [_vm._v(_vm._s(_vm.title))]
                     )
                   ]
                 ),
@@ -9512,7 +9509,7 @@
                           y: "" + 26 * _vm.tempBase[1]
                         }
                       },
-                      [_vm._v("状态码数量")]
+                      [_vm._v(_vm._s(_vm.subTit))]
                     )
                   ]
                 ),
@@ -9537,7 +9534,7 @@
                           y: "" + 29 * _vm.tempBase[1]
                         }
                       },
-                      [_vm._v("999万")]
+                      [_vm._v(_vm._s(_vm.content))]
                     )
                   ]
                 )
@@ -9554,7 +9551,7 @@
     /* style */
     const __vue_inject_styles__$w = function (inject) {
       if (!inject) return
-      inject("data-v-074c519e_0", { source: ".dv-decoration-11 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  display: flex;\n}\n.dv-decoration-11 .decoration-content {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,aAAa;AACf;AACA;EACE,kBAAkB;EAClB,QAAQ;EACR,SAAS;EACT,WAAW;EACX,YAAY;EACZ,aAAa;EACb,mBAAmB;EACnB,uBAAuB;AACzB","file":"main.vue","sourcesContent":[".dv-decoration-11 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  display: flex;\n}\n.dv-decoration-11 .decoration-content {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n"]}, media: undefined });
+      inject("data-v-736a42a6_0", { source: ".dv-decoration-11 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  display: flex;\n}\n.dv-decoration-11 .decoration-content {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,aAAa;AACf;AACA;EACE,kBAAkB;EAClB,QAAQ;EACR,SAAS;EACT,WAAW;EACX,YAAY;EACZ,aAAa;EACb,mBAAmB;EACnB,uBAAuB;AACzB","file":"main.vue","sourcesContent":[".dv-decoration-11 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  display: flex;\n}\n.dv-decoration-11 .decoration-content {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
