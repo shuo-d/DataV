@@ -6,13 +6,13 @@
                 <polygon stroke="#0197EF" stroke-width="1.0801964" fill-opacity="0.632129589" fill="#06192E" :points="polygonData1"></polygon>
                 <polygon fill="#7FFFFD" :points="polygonData2"></polygon>
                 <text font-family="PingFangSC-Regular, PingFang SC" :font-size="`${11 * tempBase[1]}`" font-weight="normal" fill="#FFFFFF">
-                    <tspan :x="`${6.5 * tempBase[0]}`" :y="`${16 * tempBase[1]}`">租户A</tspan>
+                    <tspan :x="`${6.5 * tempBase[0]}`" :y="`${16 * tempBase[1]}`">{{title}}</tspan>
                 </text>
                 <text id="状态码数量" font-family="PingFangSC-Regular, PingFang SC" :font-size="`${8 * tempBase[1]}`" font-weight="normal" fill="#7ECBF2">
-                    <tspan :x="`${7 * tempBase[0]}`" :y="`${26 * tempBase[1]}`">状态码数量</tspan>
+                    <tspan :x="`${7 * tempBase[0]}`" :y="`${26 * tempBase[1]}`">{{subTit}}</tspan>
                 </text>
                 <text id="状态码数量" font-family="PingFangSC-Regular, PingFang SC" :font-size="`${16 * tempBase[1]}`" font-weight="normal" fill="#152336">
-                    <tspan :x="`${86 * tempBase[0]}`" :y="`${29 * tempBase[1]}`">999万</tspan>
+                    <tspan :x="`${86 * tempBase[0]}`" :y="`${29 * tempBase[1]}`">{{content}}</tspan>
                 </text>
             </g>
         </g>
@@ -30,19 +30,15 @@ export default {
   name: 'Decoration13',
   mixins: [autoResize, computedSvgRealSize],
   props: {
-    titleColor: {
+    title: {
       type: String,
       default: '',
     },
-    subTitColor: {
+    subTit: {
       type: String,
-      default: '',
+      default: '',s
     },
-    borderColor: {
-      type: String,
-      default: '',
-    },
-    contentColor: {
+    content: {
       type: String,
       default: '',
     }
