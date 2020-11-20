@@ -455,14 +455,14 @@
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
     return _c("div", { staticClass: "dv-loading" }, [
-      _c("svg", { attrs: { width: "50px", height: "50px" } }, [
+      _c("svg", { attrs: { width: "150px", height: "150px" } }, [
         _c(
           "circle",
           {
             attrs: {
-              cx: "25",
-              cy: "25",
-              r: "20",
+              cx: "75",
+              cy: "75",
+              r: "60",
               fill: "transparent",
               "stroke-width": "3",
               "stroke-dasharray": "31.415, 31.415",
@@ -497,9 +497,9 @@
           "circle",
           {
             attrs: {
-              cx: "25",
-              cy: "25",
-              r: "10",
+              cx: "75",
+              cy: "75",
+              r: "30",
               fill: "transparent",
               "stroke-width": "3",
               "stroke-dasharray": "15.7, 15.7",
@@ -540,7 +540,7 @@
     /* style */
     const __vue_inject_styles__$1 = function (inject) {
       if (!inject) return
-      inject("data-v-1d059a3c_0", { source: ".dv-loading {\n  width: 100%;\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n.dv-loading .loading-tip {\n  font-size: 15px;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;EACZ,aAAa;EACb,sBAAsB;EACtB,uBAAuB;EACvB,mBAAmB;AACrB;AACA;EACE,eAAe;AACjB","file":"main.vue","sourcesContent":[".dv-loading {\n  width: 100%;\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n.dv-loading .loading-tip {\n  font-size: 15px;\n}\n"]}, media: undefined });
+      inject("data-v-1a6d66d4_0", { source: ".dv-loading {\n  width: 100%;\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n.dv-loading .loading-tip {\n  font-size: 15px;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;EACZ,aAAa;EACb,sBAAsB;EACtB,uBAAuB;EACvB,mBAAmB;AACrB;AACA;EACE,eAAe;AACjB","file":"main.vue","sourcesContent":[".dv-loading {\n  width: 100%;\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n.dv-loading .loading-tip {\n  font-size: 15px;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
@@ -6224,8 +6224,8 @@
                       fill: "url(#radialGradient-1)",
                       x: "1",
                       y: "1",
-                      width: "" + (_vm.width - 4),
-                      height: "" + (_vm.height - 4),
+                      width: "" + (_vm.width > 4 ? _vm.width - 4 : _vm.width),
+                      height: "" + (_vm.height > 4 ? _vm.height - 4 : _vm.height),
                       rx: "2"
                     }
                   }),
@@ -6341,7 +6341,7 @@
     /* style */
     const __vue_inject_styles__$i = function (inject) {
       if (!inject) return
-      inject("data-v-1b67e86d_0", { source: ".dao-border-box-2 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dao-border-box-2 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dao-border-box-2 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,QAAQ;EACR,SAAS;AACX;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dao-border-box-2 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dao-border-box-2 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dao-border-box-2 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
+      inject("data-v-4cb182d9_0", { source: ".dao-border-box-2 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dao-border-box-2 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dao-border-box-2 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,QAAQ;EACR,SAAS;AACX;AACA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd","file":"main.vue","sourcesContent":[".dao-border-box-2 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n.dao-border-box-2 .dv-border-svg-container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  top: 0px;\n  left: 0px;\n}\n.dao-border-box-2 .border-box-content {\n  position: relative;\n  width: 100%;\n  height: 100%;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
@@ -9354,19 +9354,15 @@
     name: 'Decoration13',
     mixins: [autoResize, computedSvgRealSize],
     props: {
-      titleColor: {
+      title: {
         type: String,
         default: ''
       },
-      subTitColor: {
+      subTit: {
         type: String,
         default: ''
       },
-      borderColor: {
-        type: String,
-        default: ''
-      },
-      contentColor: {
+      content: {
         type: String,
         default: ''
       }
@@ -9475,7 +9471,7 @@
                           y: "" + 16 * _vm.tempBase[1]
                         }
                       },
-                      [_vm._v("租户A")]
+                      [_vm._v(_vm._s(_vm.title))]
                     )
                   ]
                 ),
@@ -9500,7 +9496,7 @@
                           y: "" + 26 * _vm.tempBase[1]
                         }
                       },
-                      [_vm._v("状态码数量")]
+                      [_vm._v(_vm._s(_vm.subTit))]
                     )
                   ]
                 ),
@@ -9525,7 +9521,7 @@
                           y: "" + 29 * _vm.tempBase[1]
                         }
                       },
-                      [_vm._v("999万")]
+                      [_vm._v(_vm._s(_vm.content))]
                     )
                   ]
                 )
@@ -9542,7 +9538,7 @@
     /* style */
     const __vue_inject_styles__$w = function (inject) {
       if (!inject) return
-      inject("data-v-e489e6e4_0", { source: ".dv-decoration-11 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  display: flex;\n}\n.dv-decoration-11 .decoration-content {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,aAAa;AACf;AACA;EACE,kBAAkB;EAClB,QAAQ;EACR,SAAS;EACT,WAAW;EACX,YAAY;EACZ,aAAa;EACb,mBAAmB;EACnB,uBAAuB;AACzB","file":"main.vue","sourcesContent":[".dv-decoration-11 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  display: flex;\n}\n.dv-decoration-11 .decoration-content {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n"]}, media: undefined });
+      inject("data-v-6afb6430_0", { source: ".dv-decoration-11 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  display: flex;\n}\n.dv-decoration-11 .decoration-content {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,WAAW;EACX,YAAY;EACZ,aAAa;AACf;AACA;EACE,kBAAkB;EAClB,QAAQ;EACR,SAAS;EACT,WAAW;EACX,YAAY;EACZ,aAAa;EACb,mBAAmB;EACnB,uBAAuB;AACzB","file":"main.vue","sourcesContent":[".dv-decoration-11 {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  display: flex;\n}\n.dv-decoration-11 .decoration-content {\n  position: absolute;\n  top: 0px;\n  left: 0px;\n  width: 100%;\n  height: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n"]}, media: undefined });
 
     };
     /* scoped */

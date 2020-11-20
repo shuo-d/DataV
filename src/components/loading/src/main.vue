@@ -1,20 +1,20 @@
 <template>
   <div class="dv-loading">
-    <svg width="50px" height="50px">
+    <svg width="100px" height="100px">
       <circle
-        cx="25"
-        cy="25"
-        r="20"
+        cx="50"
+        cy="50"
+        r="40"
         fill="transparent"
         stroke-width="3"
-        stroke-dasharray="31.415, 31.415"
+        stroke-dasharray="62.415, 62.415"
         stroke="#02bcfe"
         stroke-linecap="round"
       >
         <animateTransform
           attributeName="transform"
           type="rotate"
-          values="0, 25 25;360, 25 25"
+          values="0, 50 50;360, 50 50"
           dur="1.5s"
           repeatCount="indefinite"
         />
@@ -27,19 +27,19 @@
       </circle>
 
       <circle
-        cx="25"
-        cy="25"
-        r="10"
+        cx="50"
+        cy="50"
+        r="20"
         fill="transparent"
         stroke-width="3"
-        stroke-dasharray="15.7, 15.7"
+        stroke-dasharray="31.7, 31.7"
         stroke="#3be6cb"
         stroke-linecap="round"
       >
         <animateTransform
           attributeName="transform"
           type="rotate"
-          values="360, 25 25;0, 25 25"
+          values="360, 50 50;0, 50 50"
           dur="1.5s"
           repeatCount="indefinite"
         />

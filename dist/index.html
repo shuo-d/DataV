@@ -33,23 +33,26 @@
       justify-content: center;
       align-items: center;
     }
+
     .bg {
       background-image: url('./images/bg.webp');
-  background-size: 100%;
-  background-repeat: no-repeat;
-  /* position: relative; */
+      background-size: 100%;
+      background-repeat: no-repeat;
+      /* position: relative; */
     }
   </style>
 </head>
 
 <body>
   <div id="app">
-    <div class="d" style="height: 80px; width: 280px; ">
+    <dv-loading></dv-loading>
+    <!-- <div class="d" style="height: 80px; width: 280px; ">
       <decoration-13>Welcome to DataVs</decoration-13>
     </div>
     <div class="d" style="margin-top:40px; height: 180px; width: 480px; ">
-      <dao-border-box-1>Welcome to DataVs</dao-border-box-1>
-    </div>
+      <decoration-13 :title="statusCon.title" :sub-tit="statusCon.subTit" :content="statusCon.content">
+        </decoration-13>
+    </div> -->
   </div>
 
   <script>
@@ -57,15 +60,21 @@
       el: '#app',
       data: {
         color: 'red',
+        statusCon: {
+          title: '租户A',
+          subTit: '状态码数量',
+          content: '2345'
+        }
       },
       mounted() {
         console.log('ssss')
       },
-        
+
     })
   </script>
 </body>
 <style>
-  
+
 </style>
+
 </html>
