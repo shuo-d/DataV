@@ -170,14 +170,6 @@ export default {
       });
     },
   },
-  mounted() {
-    this.$nextTick(() => {
-      console.log(this.lRTB("lt"), "left");
-      console.log(this.tempBase, "left1111");
-      console.log(viewBase, "left222");
-      console.log(this.width, "333");
-    });
-  },
 };
 </script>
 
