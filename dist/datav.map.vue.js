@@ -455,17 +455,17 @@
     var _h = _vm.$createElement;
     var _c = _vm._self._c || _h;
     return _c("div", { staticClass: "dv-loading" }, [
-      _c("svg", { attrs: { width: "150px", height: "150px" } }, [
+      _c("svg", { attrs: { width: "100px", height: "100px" } }, [
         _c(
           "circle",
           {
             attrs: {
-              cx: "75",
-              cy: "75",
-              r: "60",
+              cx: "50",
+              cy: "50",
+              r: "40",
               fill: "transparent",
               "stroke-width": "3",
-              "stroke-dasharray": "31.415, 31.415",
+              "stroke-dasharray": "62.415, 62.415",
               stroke: "#02bcfe",
               "stroke-linecap": "round"
             }
@@ -475,7 +475,7 @@
               attrs: {
                 attributeName: "transform",
                 type: "rotate",
-                values: "0, 25 25;360, 25 25",
+                values: "0, 50 50;360, 50 50",
                 dur: "1.5s",
                 repeatCount: "indefinite"
               }
@@ -497,12 +497,12 @@
           "circle",
           {
             attrs: {
-              cx: "75",
-              cy: "75",
-              r: "30",
+              cx: "50",
+              cy: "50",
+              r: "20",
               fill: "transparent",
               "stroke-width": "3",
-              "stroke-dasharray": "15.7, 15.7",
+              "stroke-dasharray": "31.7, 31.7",
               stroke: "#3be6cb",
               "stroke-linecap": "round"
             }
@@ -512,7 +512,7 @@
               attrs: {
                 attributeName: "transform",
                 type: "rotate",
-                values: "360, 25 25;0, 25 25",
+                values: "360, 50 50;0, 50 50",
                 dur: "1.5s",
                 repeatCount: "indefinite"
               }
@@ -540,7 +540,7 @@
     /* style */
     const __vue_inject_styles__$1 = function (inject) {
       if (!inject) return
-      inject("data-v-1a6d66d4_0", { source: ".dv-loading {\n  width: 100%;\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n.dv-loading .loading-tip {\n  font-size: 15px;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;EACZ,aAAa;EACb,sBAAsB;EACtB,uBAAuB;EACvB,mBAAmB;AACrB;AACA;EACE,eAAe;AACjB","file":"main.vue","sourcesContent":[".dv-loading {\n  width: 100%;\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n.dv-loading .loading-tip {\n  font-size: 15px;\n}\n"]}, media: undefined });
+      inject("data-v-15f1a015_0", { source: ".dv-loading {\n  width: 100%;\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n.dv-loading .loading-tip {\n  font-size: 15px;\n}\n", map: {"version":3,"sources":["main.vue"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,YAAY;EACZ,aAAa;EACb,sBAAsB;EACtB,uBAAuB;EACvB,mBAAmB;AACrB;AACA;EACE,eAAe;AACjB","file":"main.vue","sourcesContent":[".dv-loading {\n  width: 100%;\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n.dv-loading .loading-tip {\n  font-size: 15px;\n}\n"]}, media: undefined });
 
     };
     /* scoped */
