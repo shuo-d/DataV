@@ -45,25 +45,39 @@
 
 <body>
   <div id="app">
-    <dv-loading></dv-loading>
-    <!-- <div class="d" style="height: 80px; width: 280px; ">
-      <decoration-13>Welcome to DataVs</decoration-13>
+    <div style="width: 300px;">
+    <dao-capsule-chart :config="config"></dao-capsule-chart>
     </div>
-    <div class="d" style="margin-top:40px; height: 180px; width: 480px; ">
-      <decoration-13 :title="statusCon.title" :sub-tit="statusCon.subTit" :content="statusCon.content">
-        </decoration-13>
-    </div> -->
+
   </div>
 
   <script>
     var app = new Vue({
       el: '#app',
       data: {
-        color: 'red',
-        statusCon: {
-          title: '租户A',
-          subTit: '状态码数量',
-          content: '2345'
+        config: {
+          data: [{
+              name: '南阳南阳南阳南阳',
+              value: 167
+            },
+            {
+              name: '周口',
+              value: 1821
+            },
+            {
+              name: '漯河',
+              value: 98
+            },
+            {
+              name: '郑州',
+              value: 75
+            },
+            {
+              name: '西峡',
+              value: 66
+            },
+          ],
+          colors: ['#e062ae', '#fb7293', '#e690d1', '#32c5e9', '#96bfff']
         }
       },
       mounted() {

@@ -44,6 +44,8 @@ import charts from './components/charts/index'
 
 import activeRingChart from './components/activeRingChart'
 import capsuleChart from './components/capsuleChart'
+import daoCapsuleChart from './components/daoCapsuleChart'
+
 import waterLevelPond from './components/waterLevelPond/index'
 import percentPond from './components/percentPond/index'
 import flylineChart from './components/flylineChart'
@@ -96,6 +98,7 @@ export default function (Vue) {
 
   Vue.use(activeRingChart)
   Vue.use(capsuleChart)
+  Vue.use(daoCapsuleChart)
   Vue.use(waterLevelPond)
   Vue.use(percentPond)
   Vue.use(flylineChart)
