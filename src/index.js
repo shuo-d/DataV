@@ -55,6 +55,8 @@ import digitalFlop from './components/digitalFlop'
 import scrollBoard from './components/scrollBoard/index'
 import scrollRankingBoard from './components/scrollRankingBoard/index'
 
+import SortBoard from './components/sortBoard/index'
+
 /**
  * USE COMPONENTS
  */
@@ -111,4 +113,5 @@ export default function (Vue) {
   Vue.use(daoBorderBox3)
   Vue.use(decoration13)
   Vue.use(daoBorderBox5)
+  Vue.use(SortBoard)
 }
