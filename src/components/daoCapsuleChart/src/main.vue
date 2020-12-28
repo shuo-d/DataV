@@ -145,7 +145,7 @@ export default {
 };
 </script>
 
-<style lang="less">
+<style lang="less" scoped>
 .dao-capsule-chart {
   position: relative;
   display: flex;

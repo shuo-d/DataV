@@ -38,12 +38,15 @@
         <path :d="`M 5 ${height - 1 - 5 - width * 0.136 / 1.8} L 5 ${height - 1 - 5} L ${ 5 + 1 + width * 0.136} ${height - 1 - 5 }`"></path>
      </g>
     </svg>
+    <div class="border-box-content">
+      <slot></slot>
+    </div>
   </div>
 </template>
 
 <script>
-import autoResize from '../../mixin/autoResize'
-import computedSvgRealSize from '../../mixin/computedSvgRealSize'
+import autoResize from '../../../mixin/autoResize'
+import computedSvgRealSize from '../../../mixin/computedSvgRealSize'
 
 
 export default {
