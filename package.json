@@ -1,12 +1,12 @@
 {
   "name": "dao-visual-ui",
-  "version": "2.10.0",
-  "author": "JiaMing <743192023@qq.com>",
+  "version": "2.10.1",
+  "author": "shuo-d <18263811844@163.com>",
   "description": "Vue Large screen data display component library",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DataV-Team/DataV.git"
+    "url": "https://github.com/shuo-d/DataV.git"
   },
   "scripts": {
     "build": "node build/index.js",
@@ -17,7 +17,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DataV-Team/DataV/issues"
+    "url": "https://github.com/shuo-d/DataV/issues"
   },
   "keywords": [
     "vue",
@@ -30,7 +30,7 @@
     "@jiaminghi/charts": "*",
     "rollup-plugin-livereload": "^2.0.0"
   },
-  "homepage": "https://github.com/DataV-Team/DataV#readme",
+  "homepage": "https://github.com/shuo-d/DataV/readme",
   "devDependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.12.3",
